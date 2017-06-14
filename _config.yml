@@ -26,11 +26,7 @@ description: mia trying to blog as she also tries to write a thesis
 
 # List of links in the navigation bar
 navbar-links:
-<<<<<<< HEAD
   About me:
-=======
-  About Me: 
->>>>>>> 9d8dced8d80c8b2d3ed3f851e22f4298bac76c72
     - Short bio: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -50,7 +46,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mia
+  name: Mia 
   email: "miakdawson@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -97,7 +93,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "miakd-github-io"
+#disqus: "miakd-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
