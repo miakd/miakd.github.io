@@ -15,7 +15,7 @@
 
 # Name of website
 title: don't speak the language
-bigimg: "/img/water.jpg"
+bigimg: "/img/water.png"
 
 # Short description of your site
 url: "http://miakd.github.io"
@@ -93,7 +93,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "miakd-github-io"
+disqus: "miakd-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
