@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://miakd.github.io"
-baseurl: "miakd.github.io"
+#url: "http://miakd.github.io"
+#baseurl: "miakd.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -15,8 +15,11 @@ baseurl: "miakd.github.io"
 
 # Name of website
 title: don't speak the language
+bigimg: "/img/water.jpg"
 
 # Short description of your site
+url: "http://miakd.github.io""
+baseurl: ""
 description: mia trying to blog as she also tries to write a thesis
 
 # --- Navigation bar options --- #
@@ -43,8 +46,8 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: mia karisa
-  email: "youremail@domain.com"
+  name: Mia
+  email: "miakdawson@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -90,7 +93,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "miakd-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
