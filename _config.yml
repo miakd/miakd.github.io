@@ -27,7 +27,7 @@ description: mia trying to blog as she also tries to write a thesis
 # List of links in the navigation bar
 navbar-links:
   About Me: 
-    -Short bio: "aboutme"
+    - Short bio: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
