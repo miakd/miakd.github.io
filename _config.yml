@@ -27,7 +27,7 @@ description: mia trying to blog as she also tries to write a thesis
 # List of links in the navigation bar
 navbar-links:
   about: 
-    - the author: "aboutme"
+    - the author: "about"
     - the project: "project"
   food for thought:
     - reading: "reading"
