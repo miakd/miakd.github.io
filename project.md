@@ -4,7 +4,7 @@ title: ""
 subtitle: about the project
 ---
 
-In 'don't speak the language: geographies of resistance', I will reflect on both the substance and the process of my research on environmental justice. As I work to understand how race, environment, and science/technology are conceptualized and operationalized in the U.S., I would like to bring you along on the journey. I welcome your beef, feedback, and questions. Let's learn something from each other.
+*Don't speak the language: geographies of resistance* is my effort to reflect on and engage my community in my research on environmental justice. As I work to understand how race, environment, and science/technology are conceptualized and operationalized in the U.S., I would like to bring you along on the journey. I welcome your beef, feedback, and questions. Let's learn something from each other.
 
 I believe that language, philosophy, and action are inseparable from one another. To take liberatory action, we must deconstruct and rebuild the deeply rooted assumptions that are coded into our understandings of each other and the world. We need philosophies and languages of resistance.
 
