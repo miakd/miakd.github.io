@@ -5,4 +5,5 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+I'm wondering if I can link to dynamic maps.  What if I try this: [link](/img/pct_bl.html)
+
