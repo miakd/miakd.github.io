@@ -15,12 +15,12 @@
 
 # Name of website
 title: don't speak the language
-bigimg: "/img/water.png"
+#bigimg: 
 
 # Short description of your site
 url: "http://miakd.github.io"
 baseurl: ""
-description: mia trying to blog as she also tries to write a thesis
+#description:
 
 # --- Navigation bar options --- #
 
@@ -50,7 +50,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mia Karisa 
+  name: Mia K. Dawson 
   email: "miakdawson@gmail.com"
   facebook: yourname  # eg. daattali
   github: miakd
