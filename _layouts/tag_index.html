@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class="post_title">{{page.title}}:</h2>
+<h2 class="post_title">{{page.title | downcase | capitalize}}:</h2>
 
 <div class="posts-list">
   {% for post in site.posts %}
@@ -10,7 +10,7 @@ layout: default
   {% if tag == page.tag %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <h3 class="post-title">{{ post.title }}</h3>
+      <h3 class="post-title">{{ post.title | downcase | capitalize}}</h3>
 
       {% if post.subtitle %}
       <h4 class="post-subtitle">
