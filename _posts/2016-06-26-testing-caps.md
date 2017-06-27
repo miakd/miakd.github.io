@@ -1,5 +1,5 @@
 ---
-title: testing caps
+title: testing Caps
 ---
 
-Will this post name be capitalized?
+Hmmmmm.
