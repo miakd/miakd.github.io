@@ -22,7 +22,7 @@ Pullido, Laura: ***everything!***
 
 McKitterick, Katherine: ***everything!***
 
-Also, here is 10 pages of black geography reading as part of this [syllabus](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis.  Get into it, family.
+*There are hundreds of black geography articles and books listed on this [syllabus](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis for his class.  Get into it, family.*
 
 ### Fiction ###
 
