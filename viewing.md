@@ -1,6 +1,6 @@
 I am definitely not a film buff, but here's a short list of what has inspired me this year.  Comment with suggestions!
 
-#### Fiction #### 
+### Fiction ### 
   
   **Bessie**, 2015, Dee Rees
   
@@ -14,7 +14,7 @@ I am definitely not a film buff, but here's a short list of what has inspired me
   
   **Pariah**, 2011, Dee Rees
   
-#### Documentaries #### 
+### Documentaries ###
   
   **13th**, 2016, Ava DuVernay
   
