@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ''
-subtitle:'listening'
+title: ""
+subtitle: listening
 ---
 
 Much more to come soon!  
