@@ -11,7 +11,7 @@ Growing up, my older brother kept my family supplied with music.  His collection
 
 One of our favorite songs around that time was [*The world is yours*]( https://www.youtube.com/watch?v=_srvHOu75vM) by Nas featuring Pete Rock.  Between verses about the grittiness of life as a black man in the New York City projects, there is an joyful chorus in the form of a call-and-response between the two artists: 
 
->Nas: *Whose world is this?* / Pete Rock: *The world is yours!* / Nas: It's mine, it's mine, it's mine!
+>Nas: *Whose world is this?* / Pete Rock: *The world is yours!* / Nas: *It's mine, it's mine, it's mine.*
     
 
 
