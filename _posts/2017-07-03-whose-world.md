@@ -9,7 +9,7 @@ Growing up, my older brother kept my family supplied with music.  His collection
 One of my brother and my favorite songs around that time was [*The world is yours*]( https://www.youtube.com/watch?v=_srvHOu75vM) by Nas featuring Pete Rock.  Between verses about the grittiness of life as a black man in the New York City projects, there is an joyfully uplifting chorus:
 
 >Whose world is this? (Pete Rock)
->>The world is yours. (Nas)
+>The world is yours. (Nas)
 >It’s mine, it’s mine, it’s mine. (Pete Rock)
     
 
