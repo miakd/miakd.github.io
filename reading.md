@@ -16,7 +16,7 @@ Said, Edward: *Orientalism*
 
 Mock, Janet: *Redefining realness*
 
-Haraway, Donna: *Simians, Cyborgs, and Women: The Reinvention of Nature*
+Haraway, Donna: *Simians, cyborgs, and women: the reinvention of nature*
 
 Pullido, Laura: ***everything!***
 
