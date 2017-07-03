@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who's world is this?
-subtitle: Musings on black feminist geography
+subtitle: Why we need black feminist geography
 ---
 
 >Nas: Who's world is this?
