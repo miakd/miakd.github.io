@@ -6,9 +6,7 @@ I am definitely not a film buff, but here's a short list of what has inspired me
   
   **Get Out**, 2017, Jordan Peele
   
-  **Hidden Figures**, 2017, Theodore Melfi
-  
-  *Hey, once you watch Hidden Figures, check out this [critique](https://news.vice.com/story/oscar-nominated-hidden-figures-was-whitewashed-but-it-didnt-have-to-be) and let me know what you think.*
+  **Hidden Figures**, 2017, Theodore Melfi *(hey, once you watch this, check out this [critique](https://news.vice.com/story/oscar-nominated-hidden-figures-was-whitewashed-but-it-didnt-have-to-be) and let me know what you think)*
   
   **Moonlight**, 2016, Barry Jenkins
   
