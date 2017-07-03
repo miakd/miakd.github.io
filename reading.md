@@ -4,7 +4,7 @@ title: ""
 subtitle: reading
 ---
 
-Much more reading is coming your way soon.  Here is a short list of what I'm chewing on.  For my favorite authors, instead of choosing titles, I'll just say "***everything!***".
+Much more reading is coming your way soon.  Here is a short list of what I'm chewing on.  For my favorite authors, instead of choosing titles, I'll just say read ***everything!***
 
 ### Non-fiction ###
 
