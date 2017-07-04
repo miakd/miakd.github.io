@@ -14,7 +14,7 @@ As a black feminist geographer, this tension between the harsh and the uplifting
 
 <sup>1</sup> For more on the legacy of slavery in the contemporary U.S., check out [***13th***](https://www.netflix.com/title/80091741) directed by Ava DuVernay or [***The New Jim Crow***](https://peacelawandjustice.files.wordpress.com/2013/12/newjimcrow-ch-1.pdf) by Michelle Alexander.
 
-<sup>2</sup> For more on slow violence, check out the [introduction to Rob Nixon's ***Slow violence and the environmentalism of the poor***](https://www4.uwm.edu/c21/pdfs/events/nixon_slowviolence_intro.pdf).
+<sup>2</sup> For more on slow violence, check out the introduction to Rob Nixon's [***Slow violence and the environmentalism of the poor***](https://www4.uwm.edu/c21/pdfs/events/nixon_slowviolence_intro.pdf).
 
 <sup>3</sup> For more on intersectionality, a term coined by Kimberlé Williams Crenshaw, check out this [**TED Talk**](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality), this [**Washington Post article**](https://www.washingtonpost.com/news/in-theory/wp/2015/09/24/why-intersectionality-cant-wait/) , or this [**big fat scholarly article**](http://socialdifference.columbia.edu/files/socialdiff/projects/Article__Mapping_the_Margins_by_Kimblere_Crenshaw.pdf).  These are all by Crenshaw herself (the TED Talk features Abby Dobson).
 
