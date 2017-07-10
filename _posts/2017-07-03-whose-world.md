@@ -2,7 +2,7 @@
 layout: post
 title: Whose world is this?
 subtitle: Why we need black feminist geography
-image: NULL
+image: false
 bigimg: 
   - "/img/imp_map.jpeg" : "Detail on a British colonial map of the world. 1886."
 ---
