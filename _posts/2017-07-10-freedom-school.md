@@ -47,6 +47,6 @@ These terms are not all-encompassing, nor are they totally distinct from one ano
 
 <sup>7</sup> This [dress code](https://thegavoice.com/atlanta-gay-bar-blakes-taking-heat-over-dress-code-sign/) posted a couple years ago at Blake's in Atlanta, GA, is such a neatly packaged example, it is almost too easy.
 
-<sup>8</sup> For a black feminist perspective on cultural racism, check out [Controlling Images and Black Women's Oppression(http://nelsonssociology101.weebly.com/uploads/2/6/1/6/26165328/controlling.pdf) by Patricia Hill Collins.
+<sup>8</sup> For a black feminist perspective on cultural racism, check out [Controlling Images and Black Women's Oppression](http://nelsonssociology101.weebly.com/uploads/2/6/1/6/26165328/controlling.pdf) by Patricia Hill Collins.
 
 <sup>9</sup> For a quick and easy read on cultural appropriation and yoga, check out this [quick read](http://everydayfeminism.com/2016/05/yoga-cultural-appropriation/) by Maisha Z. Johnson and nisha ahuja.
