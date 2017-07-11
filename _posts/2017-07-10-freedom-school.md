@@ -39,7 +39,7 @@ These terms are not all-encompassing, nor are they totally distinct from one ano
 
 <sup>3</sup> For more on blackness and property ownership in the U.S., check out this [***scholarly article***](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1111&context=bjalp) by Margalynne Armstrong.
 
-<sup>4</sup> For more on structural racism and housing, check out this popular article, [***The Case for Reparations***](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/), by Ta-nehesi Coates.
+<sup>4</sup> For more on structural racism and housing, check out this [***popular article***](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/), by Ta-nehesi Coates.
 
 <sup>5</sup> For more on language, check out this [***short interview***](http://www.nbcnews.com/video/the-cycle/49333545#49333545) with H. Samy Alim (who was also at Freedom School!), discussing his book, *Articulate While Black: Obama, Language, and Race in the U.S*.
 
