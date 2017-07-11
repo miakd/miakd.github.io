@@ -43,7 +43,7 @@ These terms are not all-encompassing, nor are they totally distinct from one ano
 
 <sup>5</sup> For more on language, check out this [short interview](http://www.nbcnews.com/video/the-cycle/49333545#49333545) with H. Samy Alim (who was also at Freedom School!), discussing his book, 'Articulate While Black: Obama, Language, and Race in the U.S'.
 
-<sup>6</sup> 'This is AMERICA and anything is possible when you sound white on the phone -[Jaboukie Young White on instagram](https://www.instagram.com/p/BNIn3fzhVWA/?taken-by=jaboukie&hl=en).
+<sup>6</sup> "This is AMERICA and anything is possible when you sound white on the phone." -[Jaboukie Young White on instagram](https://www.instagram.com/p/BNIn3fzhVWA/?taken-by=jaboukie&hl=en) will make you laugh/cry.
 
 <sup>7</sup> This [dress code](https://thegavoice.com/atlanta-gay-bar-blakes-taking-heat-over-dress-code-sign/) posted a couple years ago at Blake's in Atlanta, GA, is such a neatly packaged example, it is almost too easy.
 
