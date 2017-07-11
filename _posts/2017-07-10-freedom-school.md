@@ -33,7 +33,7 @@ Cultural appropriation is a painfully ironic twist to cultural racism.  Cultural
 These terms are not all-encompassing, nor are they totally distinct from one another.  Still, I hope they will help you clarify your thoughts and discussions on race.  Go forth, and argue productively!  
 
  
-<sup>1</sup> Check out [***Black Lives Matter Sacramento***](http://www.inciteaction.com/).
+<sup>1</sup> Check out and support [***Black Lives Matter Sacramento***](http://www.inciteaction.com/).
 
 <sup>2</sup> Check out the [***Freedom School program***](http://www.blmsacfreedomschool.org/event-program.html).
 
