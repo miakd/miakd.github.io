@@ -30,7 +30,7 @@ Cultural racism occurs when characteristics characteristics associated with blac
 Cultural appropriation is a painfully ironic twist to cultural racism.  Cultural appropriation occurs when the practices of oppressed groups that were once devalued and scorned are lifted out of their original cultures and incorporated into mainstream white culture.  Immense profits tend to follow, accrued almost entirely outside of the communities that came up with these things in the first place; practices are commodified and their original contexts are tossed aside<sup>9</sup>.   
 
 
-These terms are not all-encompassing, nor are they totally distinct from one another.  But, I hope they will help you clarify your thoughts and discussions on race.  Go forth, and argue productively!  
+These terms are not all-encompassing, nor are they totally distinct from one another.  Still, I hope they will help you clarify your thoughts and discussions on race.  Go forth, and argue productively!  
 
  
 <sup>1</sup> Check out [***Black Lives Matter Sacramento***](http://www.inciteaction.com/).
