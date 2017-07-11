@@ -27,7 +27,7 @@ The past couple centuries of property rights in the U.S. offer some very clear l
 
 Cultural racism occurs when characteristics characteristics associated with blackness and other oppressed identities are devalued and considered deviant, while characteristics associated with whiteness are valued and considered standard.  Anything we do can be policed by cultural racism: the way we speak<sup>5,</sup><sup>6</sup>, the way we move, the way we dress<sup>7</sup>, and the way we act in relationship to others<sup>8</sup>.  It can cause us to experience exclusion and alienation in white spaces, even without instances of personally mediated racism taking place.
 
-Cultural appropriation is a painfully ironic twist to cultural racism.  Cultural appropriation occurs when the practices of oppressed groups that were once devalued and scorned are lifted out of their original cultures and incorporated into mainstream white culture.  Immense profits tend to follow, accrued almost entirely outside of the communities that came up with these things in the first place.<sup>9</sup>   
+Cultural appropriation is a painfully ironic twist to cultural racism.  Cultural appropriation occurs when the practices of oppressed groups that were once devalued and scorned are lifted out of their original cultures and incorporated into mainstream white culture.  Immense profits tend to follow, accrued almost entirely outside of the communities that came up with these things in the first place; practices are commodified and their original contexts are tossed aside<sup>9</sup>.   
 
 
 These terms are not all-encompassing, nor are they totally distinct from one another.  But, I hope they will help you clarify your thoughts and discussions on race.  Go forth, and argue productively!  
