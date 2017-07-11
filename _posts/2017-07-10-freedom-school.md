@@ -13,7 +13,7 @@ Once everyone had arrived and eaten lunch, we started the workshops, which were 
 
 ***Personally mediated racism*** 
 
-This occurs when a person or small group acts abusively due to racial hatred (conscious or subconscious) towards another person or small group.  In these cases, the roles of perpetrator and victim are clear.  These are cataclysmic events that rely on underlying structural and cultural racism to ensure that they continue to happen and that the perpetrators continue to avoid consequences (as a general rule). 
+This occurs when a person or small group acts abusively due to racial hatred (conscious or subconscious) towards another person or small group.  In these cases, the roles of perpetrator and victim are clear.  These are cataclysmic events that rely on underlying structural and cultural racism to ensure that the perpetrators avoid consequences as a general rule. 
 
 Personally mediated racism is easy to identify and is often misleadingly used as a straw-man in discussions of race.  In other words, the absence of personally mediated racism is said to mean that racism isn’t at play.  This line of reasoning is deeply misleading, because there are other forms of racism that work in more insidious ways. 
 
