@@ -4,7 +4,7 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
-#### Part 1: Dusty baggage & first encounters
+#### 1: Dusty baggage & first encounters
 
 Imagine yourself waking up in a crowded and dusty room — you do not know where you are.  The light is dim, peeking through dirty windows that are blocked by stacks of furniture and luggage.  You are in a house full of such rooms.  You stand on your tip toes, looking for light, for a point of reference outside.  The house feels familiar but you do not know where you are.
 
@@ -12,7 +12,7 @@ Now imagine that you are at a restaurant in your neighborhood — you know exact
 
 The second scenario, or something similar, you would probably say happens to you all the time.  The first scenario I’ll guess you would say never does.  I want to make the case that, in fact, they are happening at the same time, but you aren’t noticing the first one.  You meet someone new, in your neighborhood, from inside a dimly lit room, and you do not know where you are.  
 
-#### Part 2: There’s no escaping perspective
+#### 2: There’s no escaping perspective
 
 We accumulate bits and pieces of ethos and worldview from everywhere we go, piling them up like furniture.  It would be impossible to pinpoint what each of these preconceptions are, let alone how they got into our heads in the first place.  Still, we process all of our experience through these habits of pattern-making and categorization, using them to turn experiences into narratives.  We then project these narratives back on the world and believe that they were there to begin with.  At a moment of first meeting, we draw on these particularly, immediately categorizing and cataloguing a new face based on our preconceived notions.  What we think we know about this person largely reflects what is already in our own minds.   
 
@@ -24,7 +24,7 @@ Social constructivism is an attempt to call these narratives what they are: stor
 
 ***Social construction at the intersection of race and gender.***  The construction of race and gender are deeply entwined both in their histories and their current forms.  Essentialist and misogynistic notions of gender were foundational in constructing race in Western thought in the colonial era.  During this time, non-white races were characterized as feminine and weak, and therefore in need of white dominance to control their bodies and their lands.  These discourses of domination, control, and conquest, then, cannot be considered separately.  Racism continues to be enacted in terms of gender in a myriad of ways; the pathologizing of black sexuality and parenthood serve as clear examples.  These intersecting and oppressive constructions can form a deadlock on our liberation if we do not deconstruct them.
 
-#### Part 3: RuPaul & the light 
+#### 3: RuPaul & the light 
 
 Beginning to see race and gender as unstable social constructions, rather than as natural categories, can be unsettling and disorienting.  Luckily, as in most dark times, we can turn to RuPaul to show us light.  Today, she is a cultural icon who needs no introduction; but I’d like us to look back to a daytime television interview on Geraldo in 1994, before she had achieved super-stardom, to help me bring all of this home.  In this episode, she sits on a panel on stage, wearing an evening dress, Breakfast at Tiffany’s gloves, and voluminous blonde crimp hair.  Geraldo shuttles the microphone to various audience members.  Their questions are judgmental and condescending, but she stays cool.  Someone in the audience asks: “Do you people dress like this during the day?”  RuPaul responds:
 
