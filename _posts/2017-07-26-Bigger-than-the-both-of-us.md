@@ -4,7 +4,7 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
-#### 1: Dusty baggage & first encounters
+#### 1: First encounters
 
 Imagine yourself waking up in a crowded and dusty room — you do not know where you are.  The light is dim, peeking through dirty windows that are blocked by stacks of furniture and luggage.  You are in a house full of such rooms.  You stand on your tip toes, looking for light, for a point of reference outside.  The house feels familiar but you do not know where you are.
 
