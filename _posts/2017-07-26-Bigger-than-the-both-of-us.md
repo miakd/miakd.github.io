@@ -34,7 +34,7 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 
 <sup>1</sup> For more on the social construction of race, check out the article [***Racial Formations***](http://homepage.smc.edu/delpiccolo_guido/Soc34/Soc34readings/omiandwinant.pdf) by Michael Omi and Howard Winant, or the book [***Racial Formation in the United States***](https://books.google.com/books?hl=en&lr=&id=T7LcAwAAQBAJ&oi=fnd&pg=PP1&dq=omi+and+winant+racial+formation+in+the+united+states&ots=k5uSzOqS_g&sig=jF-HL8m1lg1CLRKeU1b-b96f6so#v=onepage&q=omi%20and%20winant%20racial%20formation%20in%20the%20united%20states&f=false) by the same authors.
 
-<sup>2</sup> Check out this [***easy infographic***](http://itspronouncedmetrosexual.com/wp-content/uploads/2015/03/Genderbread-Person-3.3-HI-RES.pdf) that breaks down gender in a way that is accessible to young and old.
+<sup>2</sup> Check out this [***easy infographic***](http://itspronouncedmetrosexual.com/wp-content/uploads/2015/03/Genderbread-Person-3.3-HI-RES.pdf) by Sam Killerman that breaks down gender in a way that is accessible to young and old.
 
 <sup>3</sup> For more on the social construction of gender, check out the book [***Black Feminist Thought***](https://uniteyouthdublin.files.wordpress.com/2015/01/black-feminist-though-by-patricia-hill-collins.pdf) by Patricia Hills Collins.
 
