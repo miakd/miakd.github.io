@@ -25,24 +25,24 @@ Sally Kitch :: [***the Specter of Sex (book)***](https://books.google.com/books?
 
 ### Other non-fiction ###
 
-Anzaldúa, Gloria E., and Cherríe Moraga :: *This bridge called my back*
+Dionne Brand :: ***A map to the door of no return***
 
-Brand, Dionne :: *A map to the door of no return*
+Donna Haraway:: ***Simians, cyborgs, and women: the reinvention of nature***
 
-Said, Edward :: *Orientalism*
+Edward Said :: ***Orientalism***
 
-Mock, Janet :: *Redefining realness*
+Gloria E. Anzaldúa and Cherríe Moraga :: ***This bridge called my back***
 
-Haraway, Donna :: *Simians, cyborgs, and women: the reinvention of nature*
+Janet Mock :: ***Redefining realness***
 
-Pullido, Laura :: ***everything!***
+Katherine McKitterick :: ***everything!***
 
-McKitterick, Katherine :: ***everything!***
+Laura Pullido :: ***everything!***
 
-*There are hundreds of black geography articles and books listed on this [syllabus](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis for his class.  Get into it, family.*
+*Bonus! A zillion articles and books listed on this [***syllabus***](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis.  Get into it, family.*
 
 ### Other fiction ###
 
-Butler, Octavia :: ***everything!***
+Octavia Butler :: ***everything!***
 
-Rankine, Claudia :: ***everything!***
+Claudia Rankine :: ***everything!***
