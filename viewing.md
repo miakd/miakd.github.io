@@ -6,13 +6,13 @@ subtitle: viewing
 
 ### Works cited in blog ##
 
-## Videos ##
+#### Videos ####
 
 Kimberle Crenshaw Williams & Abby Dobson :: [***The urgency of intersectionality (TED Talk)***](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality) (2016)
 
 RuPaul ::  [***Time 100 interview***](http://time.com/4746895/rupaul-time-100-video/) (2017)
 
-## Images ##
+#### Images ####
 
 J.C.R. Column :: [***Imperial Federation Map of the World Showing the extent of the British Empire in 1886***](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg/1280px-Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg) (1886) 
 
