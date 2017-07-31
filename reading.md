@@ -39,7 +39,7 @@ Katherine McKitterick :: ***everything!***
 
 Laura Pullido :: ***everything!***
 
-*Bonus! A zillion articles and books listed on this [***syllabus***](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis.  Get into it, family.*
+Bonus! A zillion articles and books listed on this [***syllabus***](http://geography.berkeley.edu/wp-content/uploads/2016/07/Geog251Spring2017.pdf) compiled by Jovan Lewis.  Get into it, family.
 
 ### Other fiction ###
 
