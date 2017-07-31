@@ -4,23 +4,33 @@ title: ""
 subtitle: viewing
 ---
 
-I am definitely not a film buff, but here's a short list of what has inspired me this year.  Comment with suggestions of what I should watch next!
+### Works cited in blog ##
 
-### Fiction ### 
+*Videos:*
+
+Kimberle Crenshaw Williams & Abby Dobson :: [***The urgency of intersectionality (TED Talk)***](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality)(2016)
+
+RuPaul ::  [***Time 100 interview***](http://time.com/4746895/rupaul-time-100-video/)(2017)
+
+*Images:*
+
+J.C.R. Column :: [***Imperial Federation Map of the World Showing the extent of the British Empire in 1886***](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg/1280px-Imperial_Federation%2C_Map_of_the_World_Showing_the_Extent_of_the_British_Empire_in_1886_%28levelled%29.jpg) (1886) 
+
+Sam Killerman :: [***Gender infographic (accessible to kids)***](http://itspronouncedmetrosexual.com/wp-content/uploads/2015/03/Genderbread-Person-3.3-HI-RES.pdf) (2016)
+
+### Other fiction ### 
   
-  **Bessie**, 2015, Dee Rees
+  Dee Rees :: ***Bessie*** (2015)
   
-  **Get Out**, 2017, Jordan Peele
+  Jordan Peele :: ***Get Out*** (2017)
   
-  **Hidden Figures**, 2017, Theodore Melfi *(hey, once you watch this, check out this [critique](https://news.vice.com/story/oscar-nominated-hidden-figures-was-whitewashed-but-it-didnt-have-to-be) and let me know what you think)*
+  Theodore Melfi :: ***Hidden Figures*** (2017)
   
-  **Moonlight**, 2016, Barry Jenkins
+  Barry Jenkins :: ***Moonlight*** (2016)
   
-  **Pariah**, 2011, Dee Rees
+  Dee Rees :: ***Pariah*** (2011)
   
-### Documentaries ###
+### Other non-fiction ###
   
-  **13th**, 2016, Ava DuVernay
-  
-  **I Am Not Your Negro**, 2016, Raoul Peck
+  Raoul Peck :: ***I Am Not Your Negro*** (2016) 
 
