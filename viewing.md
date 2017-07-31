@@ -8,9 +8,9 @@ subtitle: viewing
 
 *Videos:*
 
-Kimberle Crenshaw Williams & Abby Dobson :: [***The urgency of intersectionality (TED Talk)***](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality)(2016)
+Kimberle Crenshaw Williams & Abby Dobson :: [***The urgency of intersectionality (TED Talk)***](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality) (2016)
 
-RuPaul ::  [***Time 100 interview***](http://time.com/4746895/rupaul-time-100-video/)(2017)
+RuPaul ::  [***Time 100 interview***](http://time.com/4746895/rupaul-time-100-video/) (2017)
 
 *Images:*
 
