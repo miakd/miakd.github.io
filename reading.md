@@ -43,6 +43,8 @@ Laura Pullido :: ***everything!***
 
 ### Other fiction ###
 
+Claudia Rankine :: ***everything!***
+
 Octavia Butler :: ***everything!***
 
-Claudia Rankine :: ***everything!***
+
