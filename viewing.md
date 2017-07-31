@@ -6,6 +6,7 @@ subtitle: viewing
 
 ### Works cited in blog ##
 
+
 #### Videos ####
 
 Kimberle Crenshaw Williams & Abby Dobson :: [***The urgency of intersectionality (TED Talk)***](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality) (2016)
