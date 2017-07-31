@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes from Freedom School
-subtitle: Black Lives Matter Sacramento's 2017 workshop series
+subtitle: Breaking down how racism affects our health
 image: /img/freedom_school.jpeg
 ---
 
