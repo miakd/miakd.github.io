@@ -27,7 +27,7 @@ Sally Kitch :: [***the Specter of Sex***](https://books.google.com/books?id=5mSG
 
 Dionne Brand :: ***A map to the door of no return*** (2001)
 
-Donna Haraway:: ***Simians, cyborgs, and women: the reinvention of nature*** (1991) 
+Donna Haraway :: ***Simians, cyborgs, and women: the reinvention of nature*** (1991) 
 
 Edward Said :: ***Orientalism*** (1978) 
 
