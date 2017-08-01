@@ -14,7 +14,7 @@ Michael Omi and Howard Winant :: [***Racial Formations***](http://homepage.smc.e
 
 Michael Omi and Howard Winant :: [***Racial Formation in the United States***](https://books.google.com/books?id=dbLcAwAAQBAJ&printsec=frontcover&dq=racial+formation+in+the+united+states&hl=en&sa=X&ved=0ahUKEwi-zoX6m6rVAhXIslQKHQmdCAYQ6AEIKDAA#v=onepage&q&f=false)  (2014, book preview)
 
-Michelle Alexander :: [***The New Jim Crow***](https://peacelawandjustice.files.wordpress.com/2013/12/newjimcrow-ch-1.pdf)(2010, book)
+Michelle Alexander :: [***The New Jim Crow***](https://peacelawandjustice.files.wordpress.com/2013/12/newjimcrow-ch-1.pdf) (2010, book)
 
 Patricia Hills Collins :: [***Black Feminist Thought***](https://uniteyouthdublin.files.wordpress.com/2015/01/black-feminist-though-by-patricia-hill-collins.pdf) (2000, book)
 
