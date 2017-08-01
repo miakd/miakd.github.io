@@ -25,17 +25,17 @@ Sally Kitch :: [***the Specter of Sex***](https://books.google.com/books?id=5mSG
 
 ### Other non-fiction ###
 
-Dionne Brand :: ***A map to the door of no return***
+Dionne Brand :: ***A map to the door of no return*** (2001)
 
-Donna Haraway:: ***Simians, cyborgs, and women: the reinvention of nature***
+Donna Haraway:: ***Simians, cyborgs, and women: the reinvention of nature*** (1991) 
 
-Edward Said :: ***Orientalism***
+Edward Said :: ***Orientalism*** (1978) 
 
-Gloria E. Anzaldúa and Cherríe Moraga :: ***This bridge called my back***
+Gloria E. Anzaldúa and Cherríe Moraga :: ***This bridge called my back*** (1981) 
 
-Janet Mock :: ***Redefining realness***
+Janet Mock :: ***Redefining realness*** (2014)
 
-Katherine McKitterick :: ***everything!***
+Katherine McKitterick :: ***Demonic grounds*** (2006)
 
 Laura Pullido :: ***everything!***
 
