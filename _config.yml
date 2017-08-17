@@ -32,8 +32,8 @@ navbar-links:
     - the project: "project"
   food for thought:
     - reading: "reading"
-    - listening: "listening"
     - viewing: "viewing"
+    - listening: "listening"
   #inspiration:
     #- BLM Sacramento: "http://www.inciteaction.com/"
 
