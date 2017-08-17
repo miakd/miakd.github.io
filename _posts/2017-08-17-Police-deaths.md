@@ -1,4 +1,5 @@
 ---
+layout: post
 output: html_document
 ---
 
