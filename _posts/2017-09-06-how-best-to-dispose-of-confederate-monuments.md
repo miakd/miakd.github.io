@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How best to dispose of Confederate monuments?
+title: How best to dispose of Confederate monuments
 subtitle: White supremacy in the physical landscape
 ---
 
