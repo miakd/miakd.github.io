@@ -13,8 +13,13 @@ These confederate symbols — and the discourse and actions surrounding their pr
 These physical manifestations of oppression go much deeper than a few hundred Confederate monuments reigning over public spaces, and working to change this landscape is infinitely more complicated than the straightforward process of removing said monuments.  Still, how we deal with the relatively superficial problem of Confederate monuments is revealing of our country’s attitudes toward white supremacy past, present, and future.  Do we treat white supremacy as a quaint relic of the past, resurfacing in uncomfortable ways, but now largely irrelevant and innocuous?  Or, do we recognize it as a tenacious organizing principle of our politics and society, one that is evolving and progressing, and working to devalue human life in general?  With white supremacy alive and strong, driving our society towards its future, there is no proper way to dispose of one thousand pounds of ugly history.  Taking down confederate monuments is just the first small step in an ultra-marathon.  Because we are seeking justice for the crimes of white supremacy; we are not seeking to hide the evidence.
 
 <sup>1</sup> [***How the U.S. Got So Many Confederate Monuments***](http://www.history.com/news/how-the-u-s-got-so-many-confederate-monuments) by Becky Little.
+
 <sup>2</sup> [***A short history of the Ku Klux Klan***](https://www.splcenter.org/fighting-hate/extremist-files/ideology/ku-klux-klan) by the Souther Poverty Law Center.
+
 <sup>3</sup> [***New york times article***] (https://www.nytimes.com/interactive/2017/08/16/us/confederate-monuments-removed.html?mcubz=0) on Confederate monuments accross the country.
+
 <sup>4</sup> [***Washington post article***](https://www.washingtonpost.com/local/md-politics/baltimore-begins-taking-down-confederate-statues/2017/08/16/f32aa26e-8265-11e7-b359-15a3617c767b_story.html) on Baltimore monument removal by Fennit Nirappil.
+
 <sup>5</sup> [***Washington post article***](https://www.washingtonpost.com/news/post-nation/wp/2017/08/17/eight-people-charged-for-toppling-confederate-statue-in-durham-as-scores-line-up-to-confess/) on Durham monument removal by Janell Ross.
+
 <sup>6</sup> [***Police Power and Particulate Matters***](https://www.researchgate.net/publication/318707771_Police_Power_and_Particulate_Matters_Environmental_Justice_and_the_Spatialities_of_InSecurities_in_US_Cities) by Lindsey Dillon and Julie Sze, offers perspective on the geography of racism in our physical landscape.
