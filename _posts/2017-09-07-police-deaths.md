@@ -9,6 +9,8 @@ Red circles indicate individual deaths; click on a circle to see the name of the
 
 Orange circles indicate cities where multiple shootings have occured; click on an orange circle to expand the individual shootings.
 
+<br>
+
 <div>
 {% include policemap.html %}
 </div>
