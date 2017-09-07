@@ -11,9 +11,7 @@ Orange circles indicate cities where multiple shootings have occured; click on a
 
 <br>
 
-<div>
 {% include policemap.html %}
-</div>
 
 <br>
 
