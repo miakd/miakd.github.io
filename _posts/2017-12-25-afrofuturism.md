@@ -4,4 +4,4 @@ title: Afro-futurism and radical geography
 subtitle: Pecha kucha presentation for Imaginging Aemrica
 ---
 
-![image](/img/imp_map.jpeg)
+![image](/img/AFRC1.pdf)
