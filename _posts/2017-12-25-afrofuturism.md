@@ -5,7 +5,7 @@ subtitle: Pecha kucha presentation for Imaginging America
 ---
 
 ![1](/img/AFRC-page-001.jpg)
-These are the slides and narration for pecha kucha presentation (this format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea).  I presented this on October 12 at the 2017 Imagining America conference at UC Davis.  I adapted the text and slides slightly for the blog format, but the essence is the same.  Hope you enjoy!
+These are the slides and narration for a pecha kucha presentation.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea.  I presented this on October 12 at the 2017 Imagining America conference at UC Davis.  I adapted the text and slides slightly for the blog format, but the essence is the same.  Hope you enjoy!
 
 *****
 
