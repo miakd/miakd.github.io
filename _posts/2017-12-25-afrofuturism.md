@@ -6,75 +6,78 @@ subtitle: Pecha kucha presentation for Imaginging America
 
 ![1](/img/AFRC-page-001.jpg)
 These are the slides and narration for pecha kucha presentation (this format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea).  I presented this on October 12 at the 2017 Imagining America conference at UC Davis.  I adapted the text and slides slightly for the blog format, but the essence is the same.  Hope you enjoy!
-----------------------
+***
+
 ![2](/img/AFRC-page-002.jpg)
 I’m going to start this presentation off with story that takes place at the exposition universelle in Paris 1900.  This ‘world’s fair’ was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The “scramble for Africa” among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
-
+***
 
 
 ![3](/img/AFRC-page-003.jpg)
 At this time, Western scientific thought was engaged in a concerted effort to organize humanity into discreet, hierarchically organized races.  Western biology, anthropology, and geography were all in lockstep in their work to naturalize white supremacy.  Many geographers at this time subscribed to a theory of environmental determinism, which held that tropical climates led to the development of lethargic, degenerate, and uncivilized races.
+***
 
 ![4](/img/AFRC-page-004.jpg)
 W.E.B. DuBois was called upon to organize an exhibit to depict the lives of people of African descent in the United States at this fair.  It was his aim to depict the rapid advancement of his people since the emancipation proclamation less than fifty years prior and to make a case for intellectual equality of black people.  He was given a rare opportunity, as a black person, to speak for his own race in a time and place where virulent anti-black racism was the social norm.  Depictions of colonized subjects in other exhibitions at this world fair were deeply violent and dehumanizing, including human zoos where Africans were confined for spectacle.  
-
+***
 
 
 ![5](/img/AFRC-page-005.jpg)
 On a crunched timeline of just four months, DuBois and his students set out to research and compile information for an exhibit .  This map, which served as the cover for the study, shows the routes of the trans Atlantic slave trade.  The caption reads: “this case is devoted to a series of charts, maps, and other devises designed to illustrate the development of the American Negro in a single typical state of the United States.”  And then it states: “The problem of the 20th century is the problem of the color-line”.
-
+***
 
 
 ![6](/img/AFRC-page-006.jpg)
 That prediction has become famous in African American studies, and is widely considered to be prophetic. 
-
+***
 
 ![7](/img/AFRC-page-007.jpg)
 DuBois’s maps, and the story behind them, can help illuminate some of the central ideas of radical geography.  Radical geographers recognize and deal explicitly with the power of maps.  Let’s bring this back to the twenty first century.  Have any of you ever had your GPS tell you turn the wrong way on a one-way street?  Did you follow it?  This happens all the time.  And this is a dramatic illustration of the power of maps.  The map, perhaps with the aid of Siri’s voice, had become more real to you in that moment than the territory you could see with your own eyes.  In this and in countless other ways, maps dictate how we perceive our landscape.  
+***
 
 ![8](/img/AFRC-page-008.jpg)
 In other worlds, all maps tell stories. When we make maps, we codify our subjective views of a landscape into text.  These views then influence those who use our maps by shaping their perception of the world.  Think about borders between countries as a prime example of this feedback loop between maps and worldviews.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them. We imagine these lines to be set in stone, making nationalist thinking seem completely natural.
-
+***
 
 ![9](/img/AFRC-page-009.jpg)
 There are several questions that can help us dig in to the story that a map tells.  What is being mapped?  Who does the mapping, and for what purpose?  How are they funded? Using the example of DuBois at the Paris Exposition: Dumapped black life at the turn of the century. He was funded by Congress.  DuBois’s own aims were assuredly more radical than his funders.  While DuBois wanted to show the achievements of black Americans and make a case for their equality, the administration most likely wanted to promote American nationalism by putting forth the idea that the country had absolved itself of the sins of slavery.  The maps that he produced probably represent a compromise between these competing goals.
-
+***
 
 
 ![10](/img/AFRC-page-010.jpg)
 Today, we also have to ask ourselves what technology we are using, and what are its implications.  Geography is an increasingly technological field, and radical geographers must ask who has control of these technologies, and to what ends they will be used.  This brings us to our conversation about afro-futurism.
-
+***
 
 ![11](/img/AFRC-page-011.jpg)
 Afro-futurism is a powerful aesthetic that can help radical geographers conceptualize the possibilities and limitations of using geographic technology towards black liberation.  This aesthetic grapples with the relationship between blackness and Western science and technology.  The relationship is complicated and troubled: Western science has falsely justified our supposed inferiority, has used us inhumanely as test subjects, and has largely excluded us from participating in its knowledge production.  When we have gained entry to the halls of science, our achievements have been under-recognized and suppressed in disciplinary histories. 
-
+***
 
 ![12](/img/AFRC-page-012.jpg)
 Afro-futurism is an aesthetic that can help us envision new possibilities where blackness, science, and technology, intersect.  Sun Ra was an early artist to develop this aesthetic throughout his long career from the 1930s to 1990s.  Sun Ra and other artists within the tradition use imagery associated with science fiction, fantasy, and magical realism, to bring attention to contradictions of modernity and to connect blackness to a larger cosmos.
-
+***
 
 ![13](/img/AFRC-page-013.jpg)
 Parliament and Funkadelic are two bands whose influence on the aftro-futurist aesthetic would be difficult to overestimate.  Taking inspiration from the soul of James Brown, the rock of Jimi Hendrix, and the radical political commentary of Gil Scott Heron, this large group of artists embarked on a journey that would take black popular music in an entirely new direction.  The new genre that they helped forge – funk – drew on new technology such as synthesizers and auto-tuning.  
-
+***
 
 ![14](/img/AFRC-page-014.jpg)
 This use of digital technology in their music was paired with visual aesthetics that put blackness in proximity to science and technology, often drawing from comic books for inspiration.  In their imaginative landscapes, new technologies harnessed and unleashed by “the funk” would free black people, and the United States as a whole, from a state of violence and despair. 
-
+***
 
 ![15](/img/AFRC-page-015.jpg)
 Hip-hop sprang directly out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  Outkast, the duo consisting of Andre 3000 and Big Boi, have delved extensively into the experience of blackness as a type of alienness in mainstream society. 
-
+***
 
 ![16](/img/AFRC-page-016.jpg)
 Artists in the afro-futurist tradition encourage us to approach science and technology critically.  By placing the narratives of oppression and disillusionment in proximity to science and technology, they complicate our notions of progress and modernity.  As such, these artists articulate and engage with the many of the ideas that radical geographers grapple with.  
-
+***
 
 ![17](/img/AFRC-page-017.jpg)
 I will now briefly show you a project I’ve been working on.  This use of open-source mapping technology to map the prevalence of police killings in the U.S., to me, encapsulates the tensions I have been discussing in this presentation
-
+***
 
 ![18](/img/AFRC-page-018.jpg)
 (Here, I led the audience in saying the names of some of those who have fallen to police killings in Sacrmaneto and the Bay Area.)
-
+***
 
 ![19](/img/AFRC-page-019.jpg)
