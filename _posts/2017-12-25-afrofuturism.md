@@ -5,11 +5,15 @@ subtitle: Pecha kucha presentation for Imaginging America
 ---
 
 Below are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea.  I adapted the text and slides slightly for the blog format, but the essence is the same.  Hope you enjoy!
+
 *****
+
 ![1](/img/AFRC-page-001.jpg)
 
 ![2](/img/AFRC-page-002.jpg)
+
 *****
+
 I’m going to start this presentation off with story that takes place at the exposition universelle in Paris 1900.  This ‘world’s fair’ was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The “scramble for Africa” among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
 
 *****
