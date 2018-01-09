@@ -172,7 +172,7 @@ My project using open-source data and software to map police killings in the U.S
 
 *****
 
-![18](/img/AFRC-page-018.jpg)
+![18](/img/19-page-001.jpg)
 
 *****
 
