@@ -145,7 +145,7 @@ This use of digital technology in their music was paired with visual aesthetics 
 
 *****
 
-Hip-hop sprang directly out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  Outkast, the duo consisting of Andre 3000 and Big Boi, delve into the experience of blackness as a type of alienness in mainstream society. 
+Hip-hop evolved out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  OutKast delve into the experience of blackness as a type of alienness in mainstream society on this classic album.
 
 *****
 
@@ -195,3 +195,16 @@ My project using open-source data and software to map police killings in the U.S
 *****
 
 Works cited
+
+Bell, Pedro.  Cover art for Funkadelic, 1978, One Nation Under A Groove.  Warner Bros., 	Burbank, CA, USA. 
+
+EMEKx.  Cover art for Erykah Badu, 2016, But You Caint Use My Phone.  Motown, Detroit, 	USA.
+
+Gomez, Frank.  Cover art for Outkast, 1996, ATLiens. LaFace, Atlanta, GA, USA.
+
+Gribbitt!  Cover art for Parliament, 1975, The mothership connection. Casablanca 	Records, New York, NY, USA. 
+
+Mutu, Wangechi. Yo Mama. The Museum of Modern Art, New York, NY, USA.
+
+Provenzo, Eugene F., Jr. 2013. W.E.B. DuBois’s Exhibit of American Negroes: African Americans at the turn of the century. Roman & Littlefield, Lanham, MD, USA.
+
