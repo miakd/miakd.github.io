@@ -4,7 +4,7 @@ title: Afro-futurism and radical geography
 subtitle: Pecha kucha presentation for Imaginging America
 ---
 
-This post is a slight adaptation are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate an idea.  The idea that I hoped to communicate here is that afro-futurist aesthetics can help us understand the tensions involved with using mapping technology towards black liberation.
+This post is a slight adaptation of the slides and narration from my pecha kucha presentation on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate an idea.  The idea that I hoped to communicate here is that afro-futurist aesthetics can help us envision and develop mapping technology towards black liberation.
 
 *****
 
@@ -14,7 +14,7 @@ This post is a slight adaptation are the slides and narration for a pecha kucha 
 
 *****
 
-I’m going to start off with a story that takes place at the *exposition universelle*, or "world's fair", in Paris in 1900.  This gathering was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The “scramble for Africa” among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
+I’m going to start off with a story that takes place at the *exposition universelle* or "world's fair" in Paris in 1900.  This gathering was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The scramble for Africa among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
 
 *****
 
@@ -34,7 +34,7 @@ At this time, Western scientific thought was engaged in a concerted effort to or
 
 *****
 
-W.E.B. DuBois was called upon to organize an exhibit to depict the lives of people of African descent in the United States at this fair.  It was his aim to depict the rapid advancement of his people since the emancipation proclamation less than fifty years prior and to make a case for intellectual equality of black people.  He was given a rare opportunity, as a black person, to speak for his own race in a time and place where virulent anti-black racism was the social norm.  Depictions of colonized subjects in other exhibitions at this world fair were deeply violent and dehumanizing, including human zoos where Africans were confined for spectacle.  
+W.E.B. DuBois was called upon to organize an exhibit to depict the lives of people of African descent in the United States at this fair.  It was his aim to depict the rapid advancement of his people since the emancipation proclamation less than fifty years prior and to make a case for the intellectual equality of black people to whites.  He was given a rare opportunity, as a black person, to speak for his own race in a time and place where virulent anti-black racism was the social norm.  Depictions of colonized subjects in other exhibitions at this world fair were deeply violent and dehumanizing, including human zoos where Africans were confined for spectacle.  
 
 *****
 
@@ -65,7 +65,7 @@ That prediction has become famous in African American studies, and is widely con
 
 *****
 
-DuBois’s maps, and the story behind them, can help illuminate some of the central ideas of radical geography.  Radical geographers recognize and deal explicitly with the power of maps.  Let’s bring this back to the twenty first century.  Have any of you ever had your GPS tell you turn the wrong way on a one-way street?  Did you follow it?  This happens all the time.  And this is a dramatic illustration of the power of maps.  The map had become more real to you in that moment than the territory you could see with your own eyes.  In this and many other ways, maps dictate how we perceive our landscape.  
+DuBois’s maps, and the story behind them, can help illuminate some of the central ideas of radical geography.  Radical geographers recognize and deal explicitly with the power of maps.  Let’s bring this back to the twenty first century.  Have any of you ever had your GPS tell you turn the wrong way on a one-way street?  Did you follow it?  This happens all the time.  And this is a dramatic illustration of the power of maps.  The map had become more real to you in that moment than the territory you could see with your own eyes.  This is just one small example of how maps can dictate how we perceive our landscape.  
 
 *****
 
@@ -75,7 +75,7 @@ DuBois’s maps, and the story behind them, can help illuminate some of the cent
 
 *****
 
-In other worlds, all maps tell stories. When we make maps, we codify our subjective views of a landscape into text.  These views then influence those who use our maps by shaping their perception of the world.  We can think about borders between countries as an example of this feedback loop between maps and worldviews.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them; we generally imagine them to be set in stone.
+In other words, all maps tell stories. When we make maps, we codify our subjective views of a landscape.  These views then influence those who use our maps by shaping their perception of the world.  This feedback loop between maps and worldviews is exemplified by the way we tend to think about political borders.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them; we generally imagine them to be set in stone.
 
 *****
 
@@ -115,7 +115,7 @@ Afro-futurism is a powerful aesthetic that can help radical geographers conceptu
 
 *****
 
-Afro-futurism is an aesthetic that can help us envision new possibilities where blackness, science, and technology, intersect.  Sun Ra was an early artist to develop this aesthetic throughout his long career from the 1930s to 1990s.  Sun Ra and other artists within the tradition use imagery associated with science fiction, fantasy, and magical realism, to bring attention to contradictions of modernity and to connect blackness to a larger cosmos.
+Afro-futurism is an aesthetic that can help us envision new possibilities where blackness, science, and technology, intersect.  Sun Ra was an early artist to develop this aesthetic throughout a long career from the 1930s to 1990s.  Sun Ra and other artists within the tradition use imagery associated with science fiction, fantasy, and magical realism, to bring attention to contradictions of modernity and to connect blackness to a larger cosmos.
 
 *****
 
@@ -139,13 +139,15 @@ This use of digital technology in their music was paired with visual aesthetics 
 
 *****
 
+*****
+
 ![15](/img/AFRC-page-015.jpg)
 
 *****
 
-*****
+Hip-hop sprang directly out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  Outkast, the duo consisting of Andre 3000 and Big Boi, delve into the experience of blackness as a type of alienness in mainstream society. 
 
-Hip-hop sprang directly out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  Outkast, the duo consisting of Andre 3000 and Big Boi, have delved extensively into the experience of blackness as a type of alienness in mainstream society. 
+*****
 
 *****
 
@@ -153,9 +155,9 @@ Hip-hop sprang directly out of funk as a new form of expression for black Americ
 
 *****
 
-*****
+Artists in the afro-futurist tradition encourage us to approach science and technology critically.  By placing the narratives of oppression and disillusionment in proximity to science and technology, they complicate our notions of progress and modernity.  As such, these artists articulate and engage with the many of the ideas that radical geographers grapple with, and identify new directions for our thinking.
 
-Artists in the afro-futurist tradition encourage us to approach science and technology critically.  By placing the narratives of oppression and disillusionment in proximity to science and technology, they complicate our notions of progress and modernity.  As such, these artists articulate and engage with the many of the ideas that radical geographers grapple with.  
+*****
 
 *****
 
@@ -163,9 +165,11 @@ Artists in the afro-futurist tradition encourage us to approach science and tech
 
 *****
 
-*****
 
 My project using open-source data and software to map police killings in the U.S. has led me to this exploration of the tensions between geographic technology and the black experience.  What is the role of data and mapping technology in the fight for black liberation?  Artists in the afro-futurist aesthetic, through their work to articulate varied relationships between blackness, science, and technology, can point us towards an answer.
+
+*****
+
 *****
 
 ![18](/img/AFRC-page-018.jpg)
