@@ -4,8 +4,7 @@ title: Afro-futurism and radical geography
 subtitle: Pecha kucha presentation for Imaginging America
 ---
 
-Below are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea.  I adapted the text and slides slightly for the blog format, but the essence is the same.  Hope you enjoy!
-
+This post is a slight adaptation are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea. 
 *****
 
 ![1](/img/AFRC-page-001.jpg)
@@ -14,16 +13,19 @@ Below are the slides and narration for a pecha kucha presentation that I did on 
 
 *****
 
-I’m going to start this presentation off with story that takes place at the exposition universelle in Paris 1900.  This ‘world’s fair’ was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The “scramble for Africa” among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
+I’m going to start off with a story that takes place at the *exposition universelle*, or "world's fair", in Paris in 1900.  This gathering was meant to celebrate Europe’s achievements of the nineteenth century and to spur their advancement into the twentieth century.  In the year 1900, European colonization of the globe was reaching a zenith.  The “scramble for Africa” among European powers was in full swing.  A large part of the mission of fairs like the exposition universelle was to celebrate the material gains made possible by colonization and to gain popular favor for its continuation. 
 
 *****
 
+*****
 
 ![3](/img/AFRC-page-003.jpg)
 
 *****
 
 At this time, Western scientific thought was engaged in a concerted effort to organize humanity into discreet, hierarchically organized races.  Western biology, anthropology, and geography were all in lockstep in their work to naturalize white supremacy.  Many geographers at this time subscribed to a theory of environmental determinism, which held that tropical climates led to the development of lethargic, degenerate, and uncivilized races.
+
+*****
 
 *****
 
@@ -40,7 +42,7 @@ W.E.B. DuBois was called upon to organize an exhibit to depict the lives of peop
 
 *****
 
-On a crunched timeline of just four months, DuBois and his students set out to research and compile information for an exhibit .  This map, which served as the cover for the study, shows the routes of the trans Atlantic slave trade.  The caption reads: “this case is devoted to a series of charts, maps, and other devises designed to illustrate the development of the American Negro in a single typical state of the United States.”  And then it states: “The problem of the 20th century is the problem of the color-line”.
+On a crunched timeline of just four months, DuBois and his students set out to research and compile information for an exhibit.  This map, which served as the cover for the study, shows the routes of the trans Atlantic slave trade.  The caption reads: “this case is devoted to a series of charts, maps, and other devises designed to illustrate the development of the American Negro in a single typical state of the United States.”  And then it states: “The problem of the 20th century is the problem of the color-line”.
 
 *****
 
@@ -57,7 +59,7 @@ That prediction has become famous in African American studies, and is widely con
 
 *****
 
-DuBois’s maps, and the story behind them, can help illuminate some of the central ideas of radical geography.  Radical geographers recognize and deal explicitly with the power of maps.  Let’s bring this back to the twenty first century.  Have any of you ever had your GPS tell you turn the wrong way on a one-way street?  Did you follow it?  This happens all the time.  And this is a dramatic illustration of the power of maps.  The map, perhaps with the aid of Siri’s voice, had become more real to you in that moment than the territory you could see with your own eyes.  In this and in countless other ways, maps dictate how we perceive our landscape.  
+DuBois’s maps, and the story behind them, can help illuminate some of the central ideas of radical geography.  Radical geographers recognize and deal explicitly with the power of maps.  Let’s bring this back to the twenty first century.  Have any of you ever had your GPS tell you turn the wrong way on a one-way street?  Did you follow it?  This happens all the time.  And this is a dramatic illustration of the power of maps.  The map had become more real to you in that moment than the territory you could see with your own eyes.  In this and many other ways, maps dictate how we perceive our landscape.  
 
 *****
 
@@ -65,7 +67,7 @@ DuBois’s maps, and the story behind them, can help illuminate some of the cent
 
 *****
 
-In other worlds, all maps tell stories. When we make maps, we codify our subjective views of a landscape into text.  These views then influence those who use our maps by shaping their perception of the world.  Think about borders between countries as a prime example of this feedback loop between maps and worldviews.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them. We imagine these lines to be set in stone, making nationalist thinking seem completely natural.
+In other worlds, all maps tell stories. When we make maps, we codify our subjective views of a landscape into text.  These views then influence those who use our maps by shaping their perception of the world.  We can think about borders between countries as an example of this feedback loop between maps and worldviews.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them; we generally imagine them to be set in stone.
 
 *****
 
@@ -73,7 +75,7 @@ In other worlds, all maps tell stories. When we make maps, we codify our subject
 
 *****
 
-There are several questions that can help us dig in to the story that a map tells.  What is being mapped?  Who does the mapping, and for what purpose?  How are they funded? Using the example of DuBois at the Paris Exposition: Dumapped black life at the turn of the century. He was funded by Congress.  DuBois’s own aims were assuredly more radical than his funders.  While DuBois wanted to show the achievements of black Americans and make a case for their equality, the administration most likely wanted to promote American nationalism by putting forth the idea that the country had absolved itself of the sins of slavery.  The maps that he produced probably represent a compromise between these competing goals.
+There are several questions that can help us dig in to the story that a map tells.  What is being mapped?  Who does the mapping, and for what purpose?  How are they funded? Using the example of DuBois at the Paris Exposition: DuBois mapped black life at the turn of the century. He was funded by Congress.  DuBois’s own aims were assuredly more radical than his funders.  While DuBois wanted to show the achievements of black Americans and make a case for their equality, the administration most likely wanted to promote American nationalism by putting forth the idea that the country had absolved itself of the sins of slavery.  The maps that he produced probably represent a compromise between these competing goals.
 
 *****
 
