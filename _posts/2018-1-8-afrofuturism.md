@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Afro-futurism and radical geography
-subtitle: Pecha kucha presentation for Imaginging America
+subtitle: Pecha kucha presentation for Imagining America
 ---
 
 This post is a slight adaptation of the slides and narration from my pecha kucha presentation on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate an idea.  The idea that I hoped to communicate here is that afro-futurist aesthetics can help us envision and develop mapping technology towards black liberation.
