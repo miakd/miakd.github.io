@@ -194,7 +194,7 @@ My project using open-source data and software to map police killings in the U.S
 
 *****
 
-Works cited
+***Works cited***
 
 Bell, Pedro.  Cover art for Funkadelic, 1978, One Nation Under A Groove.  Warner Bros., 	Burbank, CA, USA. 
 
