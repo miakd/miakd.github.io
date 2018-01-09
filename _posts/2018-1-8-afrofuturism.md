@@ -4,7 +4,8 @@ title: Afro-futurism and radical geography
 subtitle: Pecha kucha presentation for Imaginging America
 ---
 
-This post is a slight adaptation are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate a project or idea. 
+This post is a slight adaptation are the slides and narration for a pecha kucha presentation that I did on October 12 at the 2017 Imagining America conference at UC Davis.  The pecha kucha format involves showing 20 slides for about 20 seconds each for a 7 minute presentation to encapsulate an idea.  The idea that I hoped to communicate here is that afro-futurist aesthetics can help us understand the tensions involved with using mapping technology towards black liberation.
+
 *****
 
 ![1](/img/AFRC-page-001.jpg)
@@ -37,6 +38,8 @@ W.E.B. DuBois was called upon to organize an exhibit to depict the lives of peop
 
 *****
 
+*****
+
 
 ![5](/img/AFRC-page-005.jpg)
 
@@ -46,12 +49,15 @@ On a crunched timeline of just four months, DuBois and his students set out to r
 
 *****
 
+*****
 
 ![6](/img/AFRC-page-006.jpg)
 
 *****
 
 That prediction has become famous in African American studies, and is widely considered to be prophetic. 
+
+*****
 
 *****
 
@@ -63,11 +69,15 @@ DuBois’s maps, and the story behind them, can help illuminate some of the cent
 
 *****
 
+*****
+
 ![8](/img/AFRC-page-008.jpg)
 
 *****
 
 In other worlds, all maps tell stories. When we make maps, we codify our subjective views of a landscape into text.  These views then influence those who use our maps by shaping their perception of the world.  We can think about borders between countries as an example of this feedback loop between maps and worldviews.  Political borders are immaterial, and they have changed dramatically over the centuries; in most of the world, current borders have been imposed relatively recently by outside, colonial powers.  But we see these lines on almost every map we encounter, and we believe deeply in them; we generally imagine them to be set in stone.
+
+*****
 
 *****
 
@@ -79,12 +89,15 @@ There are several questions that can help us dig in to the story that a map tell
 
 *****
 
+*****
 
 ![10](/img/AFRC-page-010.jpg)
 
 *****
 
 Today, we also have to ask ourselves what technology we are using, and what are its implications.  Geography is an increasingly technological field, and radical geographers must ask who has control of these technologies, and to what ends they will be used.  This brings us to our conversation about afro-futurism.
+
+*****
 
 *****
 
@@ -96,6 +109,8 @@ Afro-futurism is a powerful aesthetic that can help radical geographers conceptu
 
 *****
 
+*****
+
 ![12](/img/AFRC-page-012.jpg)
 
 *****
@@ -104,11 +119,15 @@ Afro-futurism is an aesthetic that can help us envision new possibilities where 
 
 *****
 
+*****
+
 ![13](/img/AFRC-page-013.jpg)
 
 *****
 
 Parliament and Funkadelic are two bands whose influence on the aftro-futurist aesthetic would be difficult to overestimate.  Taking inspiration from the soul of James Brown, the rock of Jimi Hendrix, and the radical political commentary of Gil Scott Heron, this large group of artists embarked on a journey that would take black popular music in an entirely new direction.  The new genre that they helped forge – funk – drew on new technology such as synthesizers and auto-tuning.  
+
+*****
 
 *****
 
@@ -124,6 +143,8 @@ This use of digital technology in their music was paired with visual aesthetics 
 
 *****
 
+*****
+
 Hip-hop sprang directly out of funk as a new form of expression for black America, and taking inspiration for their predecessors, many hip-hop artists have embraced afro-futurist aesthetics.  Outkast, the duo consisting of Andre 3000 and Big Boi, have delved extensively into the experience of blackness as a type of alienness in mainstream society. 
 
 *****
@@ -132,23 +153,41 @@ Hip-hop sprang directly out of funk as a new form of expression for black Americ
 
 *****
 
+*****
+
 Artists in the afro-futurist tradition encourage us to approach science and technology critically.  By placing the narratives of oppression and disillusionment in proximity to science and technology, they complicate our notions of progress and modernity.  As such, these artists articulate and engage with the many of the ideas that radical geographers grapple with.  
-***
+
+*****
 
 ![17](/img/AFRC-page-017.jpg)
 
 *****
 
-I will now briefly show you a project I’ve been working on.  This use of open-source mapping technology to map the prevalence of police killings in the U.S., to me, encapsulates the tensions I have been discussing in this presentation
+*****
 
+My project using open-source data and software to map police killings in the U.S. has led me to this exploration of the tensions between geographic technology and the black experience.  What is the role of data and mapping technology in the fight for black liberation?  Artists in the afro-futurist aesthetic, through their work to articulate varied relationships between blackness, science, and technology, can point us towards an answer.
 *****
 
 ![18](/img/AFRC-page-018.jpg)
 
 *****
 
-(Here, I led the audience in saying the names of some of those who have fallen to police killings in Sacrmaneto and the Bay Area.)
+#JUSTICE4ADRIENELUDD
+
+#JUSTICE4JOSEPHMANN
+
+#JUSTICE4LORENZOCRUZ
+
+#JUSTICE4DESMONDPHILLIPS 
+
+#JUSTICE4MIKELMCINTYRE 
+
+#JUSTICE4DAZIONFLENAUGH
+
+#JUSTICE4RYANELLIS
+
+#JUSTICE4JAMESNELSON
 
 *****
 
-![19](/img/AFRC-page-019.jpg)
+Works cited
