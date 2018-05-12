@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ""
-subtitle: reading
+subtitle: resources
 ---
 
-### Works cited in blog (with links!) ##
+### Works cited in blog ##
 
 Kimberle Crenshaw Williams :: [***Why intersectionality can’t wait***](https://www.washingtonpost.com/news/in-theory/wp/2015/09/24/why-intersectionality-cant-wait/) (2015, shorter article)
 
