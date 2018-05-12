@@ -4,7 +4,7 @@ title: ""
 subtitle: about the author
 ---
 
-I am an organizer with Black Lives Matter Sacramento, where I am leading research and documentation, and a student in the UC Davis Geography Graduate Group.  Overall, my work seeks to reimagine relationships between race, environment and science/technology.  I ground my work in black feminism first and foremost.  My guiding light is the liberation of queer black women and non-binary folks; as elaborated in the [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html), this will mean the liberation of everyone else along the way.
+I am an organizer and data/mapping lead with Black Lives Matter Sacramento and a student in the UC Davis Geography Graduate Group.  Overall, my work seeks to reimagine relationships between race, environment and science/technology.  I ground my work in black feminism first and foremost.  My guiding light is the liberation of queer black women and non-binary folks; as elaborated in the [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html), this will mean the liberation of everyone else along the way.
 
 My work is guided by a conviction that language, philosophy, and action are inseparable from one another. To take liberatory action, we must first deconstruct the tightly held assumptions in our understandings of each other and the world, which are too often rooted in white supremacy. We must build new understandings to replace what we have shed. We need philosophies and languages of resistance.
 
