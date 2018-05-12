@@ -4,7 +4,7 @@ title: ""
 subtitle: about the author
 ---
 
-I am a student and activist working to reimagine the relationship between race, environment and technoscience.  I ground my work in black feminism first and foremost.  My guiding light is the liberation of queer black women and non-binary folks; as elaborated in the [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html), this will mean the liberation of everyone else along the way.
+I am a student and organizer working to reimagine the relationship between race, environment and technoscience.  I ground my work in black feminism first and foremost.  My guiding light is the liberation of queer black women and non-binary folks; as elaborated in the [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html), this will mean the liberation of everyone else along the way.
 
 I believe that language, philosophy, and action are inseparable from one another. To take liberatory action, we must first deconstruct the deeply rooted assumptions coded into our understandings of each other and the world. We must keep only what serves our collective struggle and build new understandings to replace what we have shed. We need philosophies and languages of resistance.
 
