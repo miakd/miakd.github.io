@@ -30,10 +30,7 @@ navbar-links:
   about: 
     - the author: "about"
     - the project: "project"
-  food for thought:
-    - reading: "reading"
-    - viewing: "viewing"
-    - listening: "listening"
+  food for thought: "reading"
   #inspiration:
     #- BLM Sacramento: "http://www.inciteaction.com/"
 
