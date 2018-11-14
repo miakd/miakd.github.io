@@ -47,4 +47,4 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 
 <sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
 
-<sup>7</sup> [***original Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
+<sup>7</sup> [***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
