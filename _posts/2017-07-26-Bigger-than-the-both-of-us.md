@@ -4,6 +4,8 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
+*NOTE (14 Nov 2018): On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.  I would write this piece differently today and will be re-working these ideas in future posts.*
+
 #### 1: Dusty baggage + first encounters
 
 Imagine yourself waking up in a crowded and dusty room — you do not know where you are.  The light is dim, peeking through dirty windows that are blocked by stacks of furniture and luggage.  You are in a house full of such rooms.  You stand on your tip toes, looking for light, for a point of reference outside.  The house feels familiar but you do not know where you are.
@@ -24,13 +26,14 @@ Social constructivism is an attempt to call these narratives what they are: stor
 
 ***Social construction at the intersection of race and gender.***  The construction of race and gender are deeply entwined both in their histories and their current forms.  Essentialist and misogynistic notions of gender were foundational in constructing race in Western thought in the colonial era.  During this time, non-white races were characterized as feminine and weak, and therefore in need of white dominance to control their bodies and their lands.  These discourses of domination, control, and conquest, then, cannot be considered separately.  Racism continues to be enacted in terms of gender in a myriad of ways; the pathologizing of black sexuality and parenthood serve as clear examples.  These intersecting and oppressive constructions have the power to form a deadlock on our collective liberation.<sup>4</sup>
 
-#### 3: RuPaul & the light 
+#### 3: Bigger than the both of us 
 
-Beginning to see race and gender as unstable social constructions, rather than as natural categories, can be unsettling and disorienting.  Luckily, as in most dark times, we can turn to RuPaul to show us light.  Today, she is a cultural icon who needs no introduction; but I’d like us to look back to a daytime television interview on Geraldo in 1994, before she had achieved super-stardom, to help me bring all of this home.  In this episode, she sits on a panel on stage, wearing an evening dress, Breakfast at Tiffany’s gloves, and voluminous blonde crimp hair.  Geraldo shuttles the microphone to audience members with judgemental and condescending questions.  One audience member asks: “Do you people dress like this during the day, or just at night?”  RuPaul responds:
+Beginning to see race and gender as unstable social constructions, rather than as natural categories, can be unsettling and disorienting.  I'd like to point to a poignant moment on *Geraldo* on 17 April 1990 to bring all of this home.  RuPaul, in drag, sits on stage with a panel of New York City "Club Kids". The show's host, Geraldo Rivera, welcomes the audience to "what very well may be the most unusual edition of this program [they] will ever see".  One audience member asks: “Do you people dress like this during the day, or just at night?”  RuPaul responds:
 
 “I wanna make the point that you’re born naked and the rest is drag. Those guys in the three piece suits over there — I look terrible in a three piece suit but it’s drag, I mean, everything you wear.  This body you have is a vessel, and you’re bigger, its bigger than the both of us, Geraldo.”<sup>5</sup>
 
 RuPaul subversively states that the identities that we hold tightly are not fundamental to our true selves.  We are all performing these identities, whether we are doing so within or outside of the expectations of society.  We need to value what is real about life: a short list, according to RuPaul, consisting of love, laughter and breath.<sup>6</sup>  Grounded in the real, we can get rid of the baggage of oppressive notions of identity.  We can begin to see each other, love each other, and lift each other up in radical new ways.
+
 
 <sup>1</sup> For more on the social construction of race, check out the article [***Racial Formations***](http://homepage.smc.edu/delpiccolo_guido/Soc34/Soc34readings/omiandwinant.pdf) by Michael Omi and Howard Winant, or the book [***Racial Formation in the United States***](https://books.google.com/books?id=dbLcAwAAQBAJ&printsec=frontcover&dq=racial+formation+in+the+united+states&hl=en&sa=X&ved=0ahUKEwi-zoX6m6rVAhXIslQKHQmdCAYQ6AEIKDAA#v=onepage&q&f=false) by the same authors.
 
@@ -42,4 +45,6 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 
 <sup>5</sup> Check out this [***episode of Geraldo***](https://www.youtube.com/watch?v=jhTpRKA_qvY) with RuPaul's moment of zen starting at 20:25.
 
-<sup>6</sup> Check out RuPaul in an [***amazing two-minute video for Time 100***](http://time.com/4746895/rupaul-time-100-video/).
+<sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
+
+<sup>7</sup> [***original Guardian article***]; [***Billboard article about RuPaul and Sasha Velour's responses***]
