@@ -4,7 +4,7 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
-*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.  I would write this piece differently today and will be re-working these ideas in future posts.*
+*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.<sup>7</sup>  I would write this piece differently today and will be re-working these ideas in future posts.*
 
 #### 1: Dusty baggage + first encounters
 
@@ -47,4 +47,4 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 
 <sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
 
-<sup>7</sup> [***original Guardian article***]; [***Billboard article about RuPaul and Sasha Velour's responses***]
+<sup>7</sup> [***original Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
