@@ -4,7 +4,7 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
-*NOTE (14 Nov 2018): On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.  I would write this piece differently today and will be re-working these ideas in future posts.*
+*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.  I would write this piece differently today and will be re-working these ideas in future posts.*
 
 #### 1: Dusty baggage + first encounters
 
