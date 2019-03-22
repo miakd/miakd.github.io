@@ -4,7 +4,7 @@ title: ""
 subtitle: about the project
 ---
 
-abolition.atlas reflects my research with and for the movement for police/prison abolition in Sacramento and beyond.  
+abolition.atlas reflects my research with and for the movement for police/prison abolition in Sacramento and beyond.   
 
 My work is made possible by inspiration & guidance from my mentors & friends in Black Lives Matter Sacramento & at UC Davis, as well as support from the Robert & Patricia Switzer Foundation, the Mellon Public Scholars Program, the Mellon Research Initiative on Racial Capitalism, the Society of Women Geographers, & the Henry A. Jastro Scholarship.
 
