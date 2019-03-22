@@ -4,6 +4,6 @@ title: ""
 subtitle: about the author
 ---
 
-I am an organizer & data/mapping lead with Black Lives Matter Sacramento & a Ph.D. student in the UC Davis Geography Graduate Group with a designated emphasis in Black Studies.  My work seeks to reimagine relationships between race, gender, science/tech, power & authority.  I ground my work in queer black feminism first & foremost.  My guiding light is the liberation of queer black people worldwide; as elaborated in the [Combahee River Collective Statement](http://circuitous.org/scraps/combahee.html), this will necessitate the liberation of all people.
 
-A human geography lens allows me to understand problems in human society in connection with larger biological & physical worlds. My human geographic approach is in conversation with black/queer/feminist studies & art, as well as science & technology studies. In my capacities as an organizer, researcher, & student/teacher, I continually strive to envision & actualize black liberation in my community. 
+
+I am an organizer & data/mapping lead with Black Lives Matter Sacramento & a Ph.D. student in the UC Davis Geography Graduate Group with a designated emphasis in Black Studies. In my capacities as an organizer, researcher, & student/teacher, I strive for liberation through abolition. My human geographic approach is in conversation with black/queer/feminist studies & art, science & technology studies and environmental justice.
