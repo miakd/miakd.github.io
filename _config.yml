@@ -28,8 +28,8 @@ baseurl: ""
 navbar-links:
   blog: ""
   about: 
-    - the author: "about"
-    - the project: "project"
+    - me: "about"
+    - my work: "project"
   resources: "reading"
   donate: "donate"
   #inspiration:
