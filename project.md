@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: about the project
+subtitle: 
 ---
 
 abolition.atlas is a collection of geographic musings reflecting my work with and for the movement for police/prison abolition in Sacramento and beyond.
