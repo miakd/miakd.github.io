@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-subtitle: about the author
+subtitle:
 ---
 
 ~~~~~~~~~~~~~~~~~~~![](/img/mia_.jpg)~~~~~~~~~~~~~~~~~~~
