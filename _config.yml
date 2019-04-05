@@ -29,7 +29,7 @@ navbar-links:
   blog: ""
   about: 
     - me: "about"
-    - my work: "project"
+    - the blog: "project"
   resources: "reading"
   donate: "donate"
   #inspiration:
