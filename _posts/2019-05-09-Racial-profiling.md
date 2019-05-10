@@ -4,4 +4,4 @@ title: Racial profiling by the numbers
 subtitle: Infographic for Black Lives Matter Sacramento
 ---
 
-![1](/img/TrafficStop.tiff)
+![](/img/TrafficStop.tiff)
