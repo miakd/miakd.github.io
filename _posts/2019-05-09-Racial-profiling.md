@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Racial profiling by the numbers
+title: Racial profiling in Sacramento by the numbers
 subtitle: Infographic for Black Lives Matter Sacramento
 ---
 
