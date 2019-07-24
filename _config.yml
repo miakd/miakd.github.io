@@ -14,7 +14,7 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: abolition.geo
+title: funkepistemology 
 #bigimg: 
 
 # Short description of your site
@@ -30,7 +30,7 @@ navbar-links:
   about: 
     - me: "about"
     - the blog: "project"
-  resources: "reading"
+  #resources: "reading"
   donate: "donate"
   #inspiration:
     #- BLM Sacramento: "http://www.inciteaction.com/"
