@@ -4,6 +4,4 @@ title: Will the funk save us all?
 subtitle: A trailer/prospectus for my dissertation
 ---
 
-[![IMAGE ALT TEXT HERE](/img/funk.png)
-
-(https://www.youtube.com/watch?v=XuXk5SHIrO8)
+[1](/img/funk.png)
