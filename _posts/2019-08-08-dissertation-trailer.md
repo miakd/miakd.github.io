@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funkepistemology
+title: Will the funk save us all?
 subtitle: A trailer/prospectus for my dissertation
 ---
 
