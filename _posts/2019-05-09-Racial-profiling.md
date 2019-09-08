@@ -6,4 +6,5 @@ subtitle: Infographic for Black Lives Matter Sacramento's Copwatch Launch
 
 ![](/img/TrafficStop.jpg)
 
-Analysis by me, graphic by Irina Beffa
+Analysis by me (code available here: (https://github.com/miakd/Sacramento-County-Policing-Data))
+Graphic by Irina Beffa
