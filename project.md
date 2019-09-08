@@ -4,4 +4,4 @@ title: ""
 subtitle: about the blog
 ---
 
-I built this site through github. All maps are open source, and everything is shareable.  
+I built this site through github. Maps and data are open source; everything is shareable.  
