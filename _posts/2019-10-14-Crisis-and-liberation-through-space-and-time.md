@@ -46,6 +46,6 @@ I'll also reference Clyde Woods here and a concept from his larger idea of blues
 
 <sup>2</sup> [Abolition Geographies and the Problem of Innocence, by Ruth Wilson Gilmore, in Futures of Black Radicalism eds. Gaye Theresa Johnson and Alex Lubin](https://drive.google.com/file/d/15CIZZo0MiacvwRjvFuhYHK0FPR3ZuGev/view?usp=sharing)
 
-<sup>3</sup> [Not Just Being Right, But Getting Free: Reflections on Class, Race, and Marxism, by Christina Heatherton] (https://www.versobooks.com/blogs/3317-not-just-being-right-but-getting-free-reflections-on-class-race-and-marxism)
+<sup>3</sup> [Not Just Being Right, But Getting Free: Reflections on Class, Race, and Marxism, by Christina Heatherton](https://www.versobooks.com/blogs/3317-not-just-being-right-but-getting-free-reflections-on-class-race-and-marxism)
 
 <sup>4</sup> [Mariame Kaba: Everything Worthwhile Is Done With Other People, by Eve L. Ewing](https://adimagazine.com/articles/mariame-kaba-everything-worthwhile-is-done-with-other-people/)
