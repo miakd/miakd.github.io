@@ -4,7 +4,7 @@ title: ""
 subtitle: about me
 ---
 
-~~~~~~~~~~~~~~~~~~~![](/img/mia_.jpg)~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~![](/img/DSC_1174.jpg)~~~~~~~~~~~~~~~~~~~
 
 I am a geographer and organizer with eyes only for liberation. I ground my work in a lineage of abolition, black & trans insurrection, and Marxism.
 
