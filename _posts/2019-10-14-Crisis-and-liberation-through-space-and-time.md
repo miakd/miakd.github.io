@@ -14,11 +14,11 @@ Neil and I sat down and spoke in July about his forthcoming book, Yellowing the 
 
 One of the things I find exciting about your writing---and I think this is true of others who are also grounded in organizing work---is that you seem to to make sense of our present by writing from the perspective of a possible future that will be. 
 
-**Mia Karisa**: Yeah. Okay. Actually, I thought about this a lot. I have this whole spiel I did about Afrofuturism and radical geography, so I'll try to condense that.
+**Mia Karisa**: Yeah. Okay. Actually, I thought about this a lot. I have this whole spiel I did about afrofuturism and radical geography, so I'll try to condense that.
 
 **Neil**: Please.
 
-**Mia Karisa**: So the idea of capitalism being destined to fail is super fucking white to me. Capitalism is failure and capitalism is death. Capitalism has been killing people and killing the planet since the jump, let's say. So saying it's destined to fail is it's not working now has to come from a privileged position-- what you’re really saying is it's working for me now but, one day, it's going to kill us all. But from the perspective of people who are being utterly failed by it, we can't afford that luxury.  Adrienne Maree Brown works from that perspective in How to Survive the End of the World<sup>1</sup>. The concept that we're currently surviving or living in an apocalypse-- I think that's useful. 
+**Mia Karisa**: So the idea of capitalism being destined to fail is super fucking white to me. Capitalism is failure and capitalism is death. Capitalism has been killing people and killing the planet since the jump, let's say. So saying it's destined to fail is it's not working now has to come from a privileged position-- what you’re really saying is it's working for me now but, one day, it's going to kill us all. But from the position of those are being utterly failed by capitalism already, we can't afford that luxury.  Adrienne Maree Brown speaks to that in How to Survive the End of the World<sup>1</sup>. Her concept that we're currently surviving or living in an apocalypse-- I think that's useful. 
 
 If we think about all of this spatially a bit more, rather than thinking about it temporally, capitalism is here. We can feel it and taste it and choke on it. But these other systems and these other ways of living are necessarily also here because if capitalism was the only thing that existed, we would all be ash. We would just crumble.  There has to be care. There has to be nurturing. There have to be things like the funk, I guess, that exist outside of capitalism and that provide some type of life force. And those things exist now. 
 
