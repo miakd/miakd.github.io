@@ -40,7 +40,12 @@ MKD: I think the emphasis on organizers being accountable to one another is cruc
 
 I'll also reference Clyde Woods here and a concept from his larger idea of blues epistemology. This work helps articulate that the knowledge we need to get free is not generated in any elite academic spaces, but rather that it comes from the “university of the streets”.   And those of us in academia who are trying to do radical work are lifted up by that knowledge but that is produced elsewhere, outside any western institutions.
 
-<sup>1</sup> https://www.endoftheworldshow.org/
-<sup>2</sup> https://drive.google.com/file/d/15CIZZo0MiacvwRjvFuhYHK0FPR3ZuGev/view?usp=sharing
-<sup>3</sup> https://www.versobooks.com/blogs/3317-not-just-being-right-but-getting-free-reflections-on-class-race-and-marxism
-<sup>4</sup> https://adimagazine.com/articles/mariame-kaba-everything-worthwhile-is-done-with-other-people/
+*****
+
+<sup>1</sup> [How to Survive the End of the World: A Podcast from the Brown Sisters](https://www.endoftheworldshow.org/)
+
+<sup>2</sup> [Abolition Geographies and the Problem of Innocence, by Ruth Wilson Gilmore, in Futures of Black Radicalism eds. Gaye Theresa Johnson and Alex Lubin](https://drive.google.com/file/d/15CIZZo0MiacvwRjvFuhYHK0FPR3ZuGev/view?usp=sharing)
+
+<sup>3</sup> [Not Just Being Right, But Getting Free: Reflections on Class, Race, and Marxism, by Christina Heatherton] (https://www.versobooks.com/blogs/3317-not-just-being-right-but-getting-free-reflections-on-class-race-and-marxism)
+
+<sup>4</sup> [Mariame Kaba: Everything Worthwhile Is Done With Other People, by Eve L. Ewing](https://adimagazine.com/articles/mariame-kaba-everything-worthwhile-is-done-with-other-people/)
