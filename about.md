@@ -4,7 +4,7 @@ title: ""
 subtitle: about me
 ---
 
-[](/img/DSC_1174.JPG)
+![](/img/DSC_1174.JPG)
 
 Mia Karisa is black trans & jewish individual and a geographer and organizer with eyes only for liberation. They ground their work in a lineage of abolition, black & trans insurrection, and Marxism.
 
