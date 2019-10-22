@@ -44,7 +44,7 @@ I'll also reference Clyde Woods here and a concept from his larger idea of blues
 
 *****
 
-<sup>1</sup> [Afro-futurism and Radical Geography Blog Post](https://miakd.github.io/2018-01-08-afrofuturism/)
+<sup>1</sup> [Afro-futurism and Radical Geography: A Blog Post by Yours Truly](https://miakd.github.io/2018-01-08-afrofuturism/)
 
 <sup>2</sup> [How to Survive the End of the World: A Podcast from the Brown Sisters](https://www.endoftheworldshow.org/)
 
