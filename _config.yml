@@ -31,7 +31,7 @@ navbar-links:
     - me: "about"
     - the blog: "project"
   #resources: "reading"
-  donate: "donate"
+  #donate: "donate"
   #inspiration:
     #- BLM Sacramento: "http://www.inciteaction.com/"
 
