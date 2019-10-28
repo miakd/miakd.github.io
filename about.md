@@ -4,7 +4,7 @@ title: ""
 subtitle: about me
 ---
 
-![](/img/sketch-1571932886233.jpg)
+![](/img/20190801_mia_088_A.jpg)
 
 *****
 Mia Karisa Dawson is a black trans & jewish individual, a geographer and organizer with eyes only for liberation. They ground their work in a lineage of abolition, black & trans insurrection, and Marxism.
