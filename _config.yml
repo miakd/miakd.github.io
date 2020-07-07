@@ -26,12 +26,12 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  blog: ""
+  #blog: ""
   about: 
     - me: "about"
     - the blog: "project"
   #resources: "reading"
-  #donate: "donate"
+  donate: "donate"
   #inspiration:
     #- BLM Sacramento: "http://www.inciteaction.com/"
 
