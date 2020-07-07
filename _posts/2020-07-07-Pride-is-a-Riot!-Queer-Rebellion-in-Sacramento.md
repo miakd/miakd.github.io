@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pride is a Riot! Queer Rebellion in Sacramento
-subtitle: Preview of my Documentary Project
+subtitle: A forthcoming documentary
 ---
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com//watch?v=YNzKfEEsmqk.jpg)](https://www.youtube.com/watch?v=YNzKfEEsmqk)
+[![IMAGE ALT TEXT HERE](img/huddle.png)](https://www.youtube.com/watch?v=YNzKfEEsmqk)
