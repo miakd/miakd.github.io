@@ -4,7 +4,7 @@ title: ""
 subtitle: about me
 ---
 
-![](img/mia_making_sign.jpg)
+![](img/me.jpg)
 
 *****
 Mia Karisa is an organizer and geographer based in Sacramento. They organize with #Still Here Collective for Trans Rights and  Aya: A Radical Black Healing Collective. They are working towards a a Ph.D. in the Geography at UC Davis with an emphasis in African American Studies. Their scholarship and their organizing work entertwine, hinging on the everyday practice in contemporary abolition work as well as its visions for the future. In their work, they aim to foster and celebrate black, queer, and radical space both within and outside of the university.
