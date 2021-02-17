@@ -46,6 +46,4 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 <sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
 
 
-*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture. I would write this piece differently today and will be re-working these ideas in future posts.*
-
-[***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
+<sup>7</sup> *NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture. I would write this piece differently today and will be re-working these ideas in future posts.* See: [***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture) and [***Billboard's article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
