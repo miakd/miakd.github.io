@@ -4,8 +4,6 @@ title: Bigger than the both of us
 subtitle: Black feminism & the social construction of identity
 ---
 
-*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture.<sup>7</sup>  I would write this piece differently today and will be re-working these ideas in future posts.*
-
 #### 1: Dusty baggage + first encounters
 
 Imagine yourself waking up in a crowded and dusty room — you do not know where you are.  The light is dim, peeking through dirty windows that are blocked by stacks of furniture and luggage.  You are in a house full of such rooms.  You stand on your tip toes, looking for light, for a point of reference outside.  The house feels familiar but you do not know where you are.
@@ -32,7 +30,7 @@ Beginning to see race and gender as unstable social constructions, rather than a
 
 “I wanna make the point that you’re born naked and the rest is drag. Those guys in the three piece suits over there — I look terrible in a three piece suit but it’s drag, I mean, everything you wear.  This body you have is a vessel, and you’re bigger, its bigger than the both of us, Geraldo.”<sup>5</sup>
 
-RuPaul subversively states that the identities that we hold tightly are not fundamental to our true selves.  We are all performing these identities, whether we are doing so within or outside of the expectations of society.  We need to value what is real about life: a short list, according to RuPaul, consisting of love, laughter and breath.<sup>6</sup>  Grounded in the real, we can get rid of the baggage of oppressive notions of identity.  We can begin to see each other, love each other, and lift each other up in radical new ways.
+RuPaul subversively states that the identities that we hold tightly are not fundamental to our true selves<sup>7</sup>.  We are all performing these identities, whether we are doing so within or outside of the expectations of society. Only once we acknowledge and deconstruct these can begin to see each other, love each other, and lift each other up in radical new ways.
 
 
 <sup>1</sup> For more on the social construction of race, check out the article [***Racial Formations***](http://homepage.smc.edu/delpiccolo_guido/Soc34/Soc34readings/omiandwinant.pdf) by Michael Omi and Howard Winant, or the book [***Racial Formation in the United States***](https://books.google.com/books?id=dbLcAwAAQBAJ&printsec=frontcover&dq=racial+formation+in+the+united+states&hl=en&sa=X&ved=0ahUKEwi-zoX6m6rVAhXIslQKHQmdCAYQ6AEIKDAA#v=onepage&q&f=false) by the same authors.
@@ -47,4 +45,7 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 
 <sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
 
-<sup>7</sup> [***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
+
+*NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture. I would write this piece differently today and will be re-working these ideas in future posts.*
+
+[***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture); [***Billboard article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
