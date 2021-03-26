@@ -4,8 +4,9 @@ layout: page
 title: ""
 subtitle: about me
 ---
-
-![](img/me_smallest.jpgstyle=centerme)
+<p align="center"> 
+  ![](img/me_smallest.jpg)
+  </p>
 <br/>*Photo by Salgu Wissmath*
 
 *****
