@@ -4,7 +4,7 @@ title: ""
 subtitle: about me
 ---
 
- <p align="center">![](img/me_smallest.jpg) /></p>
+![](img/me_smallest.jpg)
 <br/>*Photo by Salgu Wissmath*
 
 *****
