@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kings
+title: The Kings Ain't Playin' No One Tonight
 subtitle: A recent article in Society and Space
 ---
 
