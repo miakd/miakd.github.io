@@ -24,7 +24,11 @@ I’m afraid this won’t reach you. “Well,”— I hear you say— “not wit
 
 You might ask why I write you this letter with so little faith that it will arrive.  I’ll tell you up front— I’m writing this for me just as much as I’m writing it for you. Because I struggle to be vulnerable and honest, even with myself— and I love you, so I must be honest with you. And I’m writing you this because when I write almost anything else, I am paralyzed by a hostile audience that I imagine ominously over my shoulder. Unlike this audience, I know you’ll listen— you hardly listen to anyone else.
 
-Please open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity. 
+***
+
+*Please open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity.* 
+
+***
 
 Last night they didn’t indict. 
 
