@@ -26,7 +26,7 @@ You might ask why I write you this letter with so little faith that it will arri
 
 ***
 
-*Please open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity.* 
+***Please open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity.*** 
 
 ***
 
