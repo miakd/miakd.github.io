@@ -4,7 +4,7 @@ title: This movement will take you so high and so low
 subtitle: A letter to my younger self
 ---
 
-*I wrote a love letter to myself and to the movement for abolition. This will be published as part of a letter series by the amazing Desirable Futures Geography Collective.*
+*I wrote a love letter to myself and to the revolution. This will be published as part of a letter series by the amazing Desirable Futures Geography Collective.*
 
 *****
 
