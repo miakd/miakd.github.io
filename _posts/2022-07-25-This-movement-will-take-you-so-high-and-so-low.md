@@ -111,6 +111,5 @@ At times, you will struggle with survivor’s guilt. But you must enjoy your lif
 Life begins anew. And love is abundant— you will keep finding and finding it.
 
 
-Forever yours,
-
-Mia
+<div align="left"> Forever yours,</div>
+<div align="left"> Mia</div>
