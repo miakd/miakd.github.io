@@ -4,17 +4,13 @@ title: This movement will take you so high and so low
 subtitle: A letter to my younger self
 ---
 
-To: Mia Karisa Dawson
+<div align="left"> To: Mia Karisa Dawson </div>
+<div align="left"> Oberlin, OH </div>
+<div align="left"> November 25, 2014 </div>
 
-Oberlin, OH
-
-November 25, 2014
-
-<div align="right"> 
-	
-	From: Mia Karisa Dawson
-	Sacramento, CA
-	July 25, 2022 </div>
+<div align="right"> From: Mia Karisa Dawson </div>
+<div align="right"> Sacramento, CA </div>
+<div align="right">July 25, 2022 </div>
 
 Dear Mia,
 
