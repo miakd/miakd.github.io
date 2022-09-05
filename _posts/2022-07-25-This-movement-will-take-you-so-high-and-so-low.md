@@ -4,6 +4,10 @@ title: This movement will take you so high and so low
 subtitle: A letter to my younger self
 ---
 
+*I wrote a love letter to myself and to the movement for abolition. This will be published as part of a letter series by the amazing Desirable Futures Geography Collective.*
+
+*****
+
 <div align="left"> To: Mia Karisa Dawson </div>
 <div align="left"> Oberlin, OH </div>
 <div align="left"> November 25, 2014 </div>
@@ -12,6 +16,7 @@ subtitle: A letter to my younger self
 <div align="right"> Sacramento, CA </div>
 <div align="right">July 25, 2022 </div>
 
+*****
 
 Dear Mia,
 
