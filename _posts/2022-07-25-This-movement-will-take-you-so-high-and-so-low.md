@@ -5,12 +5,16 @@ subtitle: A letter to my younger self
 ---
 
 To: Mia Karisa Dawson
+
 Oberlin, OH
+
 November 25, 2014
 
-<div align="right"> From: Mia Karisa Dawson
-Sacramento, CA
-July 25, 2022 </div>
+<div align="right"> 
+	
+	From: Mia Karisa Dawson
+	Sacramento, CA
+	July 25, 2022 </div>
 
 Dear Mia,
 
