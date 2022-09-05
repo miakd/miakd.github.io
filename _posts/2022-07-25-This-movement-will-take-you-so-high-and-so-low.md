@@ -12,6 +12,7 @@ subtitle: A letter to my younger self
 <div align="right"> Sacramento, CA </div>
 <div align="right">July 25, 2022 </div>
 
+
 Dear Mia,
 
 I’m afraid this won’t reach you. “Well,”— I hear you say— “not with that attitude.” You’re right. Not with that attitude.
@@ -106,4 +107,5 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 
 
 Forever yours,
+
 Mia
