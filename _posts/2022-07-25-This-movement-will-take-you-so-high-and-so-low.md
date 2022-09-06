@@ -88,7 +88,7 @@ Ella Baker: *Strong people don't need strong leaders.*
 
 You will find the most trust and resiliency in small affinity groups that organize towards common ends, and that coordinate and come together with other groups when useful. These small groups of friends and comrades will change fluidly in their focus and function. They are not meant to be permanent. They lack hierarchy and they practice care in ways that formal organizations cannot.
 
-You are one person— and a person is a delicate thing. People come and people go. People burn bright, people burn out. People are injured, people are traumatized, people rest, people recover. At its best, the movement is forgiving, collective, alive, ingenious and resourceful. Take a break— it’s not that serious.
+**You are one person— and a person is a delicate thing.** People come and people go. People burn bright, people burn out. People are injured, people are traumatized, people rest, people recover. At its best, the movement is forgiving, collective, alive, ingenious and resourceful. Take a break— it’s not that serious.
 
 Choose your lane and stay in it. You do a lot of things well— I love that about you! Please don’t do them all. You will be your most powerful, most fulfilled and your most peaceful when you focus on one or two efforts where your strengths shine through and you can be your own leader.
 
