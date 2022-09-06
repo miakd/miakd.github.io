@@ -12,9 +12,9 @@ When the book came and I got to see my words quoted in it, it was a beautiful an
 
 Thank you. Thank you to the authors, to everyone who contributed to the book, to everyone who reads it, and to everyone who is moved by it.
 
-You can find and buy the book [***here***](https://thenewpress.com/books/no-more-police).
+You can find out about the book and where to buy it [***here***](https://thenewpress.com/books/no-more-police).
 
-And you can my interview that they quoted [***here***](https://miakd.github.io/2019-10-22-Crisis-and-liberation-through-space-and-time/).
+And you can find my interview that they quoted [***here***](https://miakd.github.io/2019-10-22-Crisis-and-liberation-through-space-and-time/).
 
 And you can check out the passage below.
 
