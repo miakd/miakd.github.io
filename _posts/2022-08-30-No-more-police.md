@@ -22,4 +22,4 @@ And you can my interview that they quoted [***here***](https://miakd.github.io/2
 
 ![3](/img/quote_3.png)
 
-![4](/img/quote_3.png)
+![4](/img/quote_4.png)
