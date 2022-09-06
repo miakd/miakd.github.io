@@ -1,7 +1,7 @@
 ---
 layout: post
-title: No more police: A case for abolition
-subtitle: An amazing book that cited my work 
+title: No more police- A Case for abolition
+subtitle: An amazing book that cited my work!
 ---
 
 Wow. I am so happy and my heart is full. I got an email a few weeks ago letting me know that I had been cited in *No More Police: A Case for Abolition* by Mariame Kaba and Andrea Ritchie.
