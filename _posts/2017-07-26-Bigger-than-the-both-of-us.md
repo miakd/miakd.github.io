@@ -30,7 +30,7 @@ Beginning to see race and gender as unstable social constructions, rather than a
 
 “I wanna make the point that you’re born naked and the rest is drag. Those guys in the three piece suits over there — I look terrible in a three piece suit but it’s drag, I mean, everything you wear.  This body you have is a vessel, and you’re bigger, its bigger than the both of us, Geraldo.”<sup>5</sup>
 
-RuPaul subversively states that the identities that we hold tightly are not fundamental to our true selves<sup>7</sup>.  We are all performing these identities, whether we are doing so within or outside of the expectations of society. Only once we acknowledge and deconstruct these can begin to see each other, love each other, and lift each other up in radical new ways.
+RuPaul subversively states that the identities that we hold tightly are not fundamental to our true selves.  We are all performing these identities, whether we are doing so within or outside of the expectations of society. Only once we acknowledge and deconstruct these can begin to see each other, love each other, and lift each other up in radical new ways.
 
 
 <sup>1</sup> For more on the social construction of race, check out the article [***Racial Formations***](http://homepage.smc.edu/delpiccolo_guido/Soc34/Soc34readings/omiandwinant.pdf) by Michael Omi and Howard Winant, or the book [***Racial Formation in the United States***](https://books.google.com/books?id=dbLcAwAAQBAJ&printsec=frontcover&dq=racial+formation+in+the+united+states&hl=en&sa=X&ved=0ahUKEwi-zoX6m6rVAhXIslQKHQmdCAYQ6AEIKDAA#v=onepage&q&f=false) by the same authors.
@@ -44,6 +44,3 @@ RuPaul subversively states that the identities that we hold tightly are not fund
 <sup>5</sup> Check out this [***episode of Geraldo***](https://www.youtube.com/watch?v=jhTpRKA_qvY) with RuPaul's moment of zen starting at 20:25.
 
 <sup>6</sup> [***RuPaul on Time 100***](http://time.com/4746895/rupaul-time-100-video/).
-
-
-<sup>7</sup> *NOTE: On 3 Mar 2018, an article in the Guardian revealed RuPaul's transphobia and ignorace of the centrality trans and gender nonconforming performers to drag history and culture. I would write this piece differently today and will be re-working these ideas in future posts.* See: [***The Guardian article***](https://www.theguardian.com/tv-and-radio/2018/mar/03/rupaul-drag-race-big-f-you-to-male-dominated-culture) and [***Billboard's article about RuPaul and Sasha Velour's responses***](https://www.billboard.com/articles/news/pride/8232231/rupaul-responds-backlash-hurtful-comments)
