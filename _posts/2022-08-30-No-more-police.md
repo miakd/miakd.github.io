@@ -19,3 +19,7 @@ And you can my interview that they quoted [***here***](https://miakd.github.io/2
 ![1](/img/quote_1.png)
 
 ![2](/img/quote_2.png)
+
+![3](/img/quote_3.png)
+
+![4](/img/quote_3.png)
