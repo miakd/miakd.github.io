@@ -102,7 +102,7 @@ Choose your lane and stay in it. You do a lot of things well— I love that abou
 **Notice cynicism.** Because yes— you will be burned. You will lose your bearings. You will swallow the bitter pill that no individual or organization is exempt from the insidious systems that lead us to harm one another. 
 
 
-**Reframe.** I can’t tell you not to be cynical. Still, consider— if nothing else, you have made treasured friendships and learned priceless lessons about yourself— how to advocate for yourself, protect yourself, and love yourself. And you have made incredible progress in your struggle to make sense of this world in its beauties and cruelties. 
+**Reframe.** I can’t tell you not to be cynical. Still, consider— if nothing else, you have made treasured friendships and learned priceless lessons about yourself— how to advocate for yourself, protect yourself, and love yourself. You've already made change. And you have made incredible progress in your struggle to make sense of this world in its beauties and cruelties. 
 
 When you are feeling cynical, shift your position. Seek alignment with and between yourself, your friends and comrades, and your organizations. Manage your intakes and outputs. Sit down.
 
