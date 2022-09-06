@@ -4,6 +4,8 @@ title: No more police- A Case for abolition
 subtitle: An amazing book that cited my work!
 ---
 
+![1](/img/Banner_image.png)
+
 Wow. I am so happy and my heart is full. I got an email a few weeks ago letting me know that I had been cited in *No More Police: A Case for Abolition* by Mariame Kaba and Andrea Ritchie.
 
 When the book came and I got to see my words quoted in it, it was a beautiful and humbling moment. I so often feel that I’m writing into a void. But this book is brilliantly put together for a wide audience and for organizers broadly. It made me feel like my struggle to be a scholar within and accountable to the fight for abolition has been succeeding more than I’m willing to admit to myself. And as I go on the terrifying academic job market, this encouragement could not have come at a better time.
@@ -14,12 +16,8 @@ You can find and buy the book [***here***](https://thenewpress.com/books/no-more
 
 And you can my interview that they quoted [***here***](https://miakd.github.io/2019-10-22-Crisis-and-liberation-through-space-and-time/)!
 
+And you can check out the passage below.
+
 ***
 
-![1](/img/quote_1.png)
-
-![2](/img/quote_2.png)
-
-![3](/img/quote_3.png)
-
-![4](/img/quote_4.png)
+![2](/img/ppt.png)
