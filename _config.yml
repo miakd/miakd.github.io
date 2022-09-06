@@ -38,7 +38,7 @@ navbar-links:
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/img/avatar-icon.png"
-avatar: "/img/mia_sketch.png"  
+avatar: "/img/mia_sketch2.jpeg"  
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -50,8 +50,8 @@ title-img:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mia Karisa
-  email: "miakmaps@gmail.com"
+  name: Mia Karisa Dawson
+  email: "miakdawson@gmail.com"
   facebook: yourname  # eg. daattali
   github: miakd
   twitter: miakarisa
