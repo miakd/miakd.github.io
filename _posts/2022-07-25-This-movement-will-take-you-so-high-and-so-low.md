@@ -49,7 +49,7 @@ You will feel alone.
 	
 **Find your people.** You have friends who are fueled by the same fire. Talk to them. Listen and learn from them. Right now, they may be outnumbered by those who will meet your fire with blank faces. So, treasure each one as you make your way out of this bizarre institution. 
 
-Leave. Use this terrifying time to seek relationships with those who align with the person you are growing to be. These people will not only help you understand the world and what it could be, but will also to open up incredible new possibilities of who you can be. And— bonus!— that person is unbelievably queer. You will begin to find chosen family and understand that the kind of love, understanding, and shared struggle that you seek will never be represented in mainstream images. 
+Leave. Use this terrifying time to seek relationships with those who align with the person you are growing to be. These people will not only help you understand the world and what it could be, but will also open up incredible new possibilities of who you can be. And— bonus!— that person is unbelievably queer. You will begin to find chosen family and understand that the kind of love, understanding, and shared struggle that you seek will never be represented in mainstream images. 
 
 
 Joy James: *Our capacity to continuously define ourselves, to rebel, and most importantly to love . . . anchors us into the real world and changes the world simultaneously.*
@@ -73,9 +73,9 @@ The movement is made of people. You will learn your own power in relationship to
 Huey P. Newton: *The people and only the people make revolutions.*
 
 
-**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller ones. They end with a corrupt bang or they dissolve quietly, agreeably. They are infiltrated and poisoned from the inside, openly or covertly.
+**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller ones. They end with a corrupt bang or they dissolve quietly, agreeably. Too often, they are infiltrated and poisoned from the inside.
 
-You are fiercely loyal and dedicated. You have faith. Practice this in your friendships and in your relationship to yourself. Do not practice this in your relationship to organizations. Instead, approach them with an open mind and with a healthy skepticism. Manage your relationship to them, as they have the tendency to take as much as you will give.
+You are fiercely loyal and dedicated. You have faith. Practice this in your relationships with your friends and comrades and in your relationship to yourself. Do not practice this in your relationship to your organizations. Instead, approach them with an open mind and with a healthy skepticism. Manage your relationship to them, as they have the tendency to take as much as you will give.
 
 
 **Question leaders.** Ask the following: who is seeking the spotlight and the credit? What kind of moral authority are they calling to their command? Who is showing disregard towards the departed and their families? Who is becoming distant from the people that gave them a platform? Who is getting rich? This movement is exploitable, and the system leaves nothing un-exploited. Keep your eyes open.
