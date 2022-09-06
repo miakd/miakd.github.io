@@ -5,6 +5,7 @@ subtitle: Why we need black feminist geography
 image: false
 bigimg: 
   - "/img/imp_map.jpeg" : "Detail on a British colonial map of the world. 1886."
+published: false
 ---
 
 Growing up, my older brother kept my family supplied with music.  His collection has been on point since the days of Sony Walkman and CD players, and he has always been ready with sets for any occasion.  He would learn entire raps by Nas and A Tribe Called Quest by heart, and I ***loved*** when he got me to be his back up.  When he'd say, *Hey Phife, you gettin' fat!*, I was ready with, *Yeah, I know it looks pathetic! Ali Shaheed Muhammad got me doin' calistenics.*
