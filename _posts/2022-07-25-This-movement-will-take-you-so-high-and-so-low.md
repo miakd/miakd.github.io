@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This movement will take you so high and so low
-subtitle: A love letter to myself and to the revolution
+subtitle: A love letter to my past self
 ---
 
 *I wrote a love letter to myself and to the revolution. This will be published as part of a letter series by the amazing Desirable Futures Geography Collective.*
