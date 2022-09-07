@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No more police- a case for abolition
+title: No more police. A case for abolition
 subtitle: An amazing book that cited my work!
 ---
 
