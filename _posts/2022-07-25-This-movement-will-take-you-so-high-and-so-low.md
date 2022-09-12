@@ -4,9 +4,9 @@ title: This movement will take you so high and so low
 subtitle: A letter to my past self
 ---
 
-![1](/img/high_low_words.jpg)
-
 *I wrote a love letter to myself and to the revolution. This will be published as part of a letter series by the amazing Desirable Futures Geography Collective.*
+
+![1](/img/high_low_words.jpg)
 
 *****
 
@@ -119,5 +119,7 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 
 <div align="left"> Forever yours,</div>
 <div align="left"> Mia 💋 </div>
+
+![2](/img/high_low_words.jpg)
 
 ***
