@@ -73,7 +73,7 @@ The movement is made of people. You will learn your own power in relationship to
 Huey P. Newton: *The people and only the people make revolutions.*
 
 
-**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller units. They end with a corrupt bang or they dissolve quietly, agreeably. Often, they are infiltrated and poisoned from the inside.
+**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. An organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller units. They end with a corrupt bang or they dissolve quietly, agreeably. Often, they are infiltrated and poisoned from the inside.
 
 You are fiercely loyal and dedicated. You have faith. Practice this in your relationships with your friends and comrades and in your relationship to yourself. Do not practice this in your relationship to your organizations. Instead, approach them with an open mind and with a healthy skepticism. Manage your relationship to them, as they have the tendency to take as much as you will give.
 
