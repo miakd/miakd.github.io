@@ -112,7 +112,7 @@ When you are feeling cynical, shift your position. Seek alignment with and betwe
 At times, you will struggle with survivor’s guilt. But you must enjoy your life. Recognize an abundance of love and joy even amidst heartbreak and struggle. 
 
 
-Life begins anew. And love is abundant— you will keep finding and finding it.
+Life begins anew. And love is abundant— you will keep finding and finding it. 
 
 
 <div align="left"> Forever yours,</div>
