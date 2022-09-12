@@ -118,6 +118,6 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 <div align="left"> Forever yours,</div>
 <div align="left"> Mia 💋 </div>
 
-![1](/img/high_low_final.jpg)
+![1](/img/high_low_final.jpeg)
 
 ***
