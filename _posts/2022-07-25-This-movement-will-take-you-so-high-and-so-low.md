@@ -73,12 +73,12 @@ The movement is made of people. You will learn your own power in relationship to
 Huey P. Newton: *The people and only the people make revolutions.*
 
 
-**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller ones. They end with a corrupt bang or they dissolve quietly, agreeably. Too often, they are infiltrated and poisoned from the inside.
+**People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller units. They end with a corrupt bang or they dissolve quietly, agreeably. Often, they are infiltrated and poisoned from the inside.
 
 You are fiercely loyal and dedicated. You have faith. Practice this in your relationships with your friends and comrades and in your relationship to yourself. Do not practice this in your relationship to your organizations. Instead, approach them with an open mind and with a healthy skepticism. Manage your relationship to them, as they have the tendency to take as much as you will give.
 
 
-**Question leaders.** Ask the following: who is seeking the spotlight and the credit? What kind of moral authority are they calling to their command? Who is showing disregard towards the departed and their families? Who is becoming distant from the people that gave them a platform? Who is getting rich? This movement is exploitable, and the system leaves nothing un-exploited. Keep your eyes open.
+**Question leaders.** Ask the following: who is seeking the spotlight and the credit? What kind of moral authority are they calling to their command? Who is showing disregard towards the departed and their families? Who is becoming distant from the people that gave them a platform? Who is getting rich? This movement is exploitable, and the system leaves nothing unexploited. Keep your eyes open.
 
 Seek individuals with experience who aim to help you and others recognize and harness their power. Seek individuals who build collectives and invest in the difficult work of democratic decision making. Like them, listen.
 
@@ -88,9 +88,9 @@ Ella Baker: *Strong people don't need strong leaders.*
 
 You will find the most trust and resiliency in small affinity groups that organize towards common ends, and that coordinate and come together with other groups when useful. These small groups of friends and comrades will change fluidly in their focus and function. They are not meant to be permanent. They lack hierarchy and they practice care in ways that formal organizations cannot.
 
-**You are one person— and a person is a delicate thing.** People come and people go. People burn bright, people burn out. People are injured, people are traumatized, people rest, people recover. At its best, the movement is forgiving, collective, alive, ingenious and resourceful. Take a break— it’s not that serious.
+**You are one person— and a person is a delicate thing.** People come and people go. People burn bright, people burn out. People are injured, people are traumatized, people rest, people recover. The movement is forgiving, collective, alive, ingenious and resourceful. Take a break— it’s not that serious.
 
-**Choose your lane and stay in it.** You do a lot of things well— I love that about you! Please don’t do them all. You will be your most powerful, most fulfilled and your most peaceful when you focus on one or two efforts where your strengths shine through and you can be your own leader.
+**Choose your lane and stay in it.** You do a lot of things well— I love that about you! Please don’t do them all. You will be your most powerful, your most fulfilled and your most peaceful when you focus on one or two efforts where your strengths shine through and you can be your own leader.
 
 
 **Don’t go to every protest.** Period.
