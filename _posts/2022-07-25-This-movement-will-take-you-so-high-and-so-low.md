@@ -78,7 +78,7 @@ Huey P. Newton: *The people and only the people make revolutions.*
 You are fiercely loyal and dedicated. You have faith. Practice this in your relationships with your friends and comrades and in your relationship to yourself. Do not practice this in your relationship to your organizations. Instead, approach them with an open mind and with a healthy skepticism. Manage your relationship to them, as they have the tendency to take as much as you will give.
 
 
-**Question leaders.** Ask the following: who is seeking the spotlight and the credit? What kind of moral authority are they calling to their command? Who is showing disregard towards the departed and their families? Who is becoming distant from the people that gave them a platform? Who is getting rich? This movement is exploitable, and the system leaves nothing unexploited. Keep your eyes open.
+**Question leaders.** Ask: who is seeking the spotlight and the credit? What kind of moral authority are they calling to their command? Who is showing disregard towards the departed and their families? Who is becoming distant from the people that gave them a platform? Who is getting rich? This movement is exploitable, and the system leaves nothing unexploited. Keep your eyes open.
 
 Seek individuals with experience who aim to help you and others recognize and harness their power. Seek individuals who build collectives and invest in the difficult work of democratic decision making. Like them, listen.
 
