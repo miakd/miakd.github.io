@@ -42,7 +42,7 @@ There is more wrath and there are more tears ahead. You will burn hot, and befor
 
 **You are not alone.** Today you feel alone. Your college was the first to integrate, as you are constantly reminded— this, unfortunately, does very little for you, in a predominantly white town, in a predominantly white institution, in an even more predominantly white major.  As you will notice increasingly, your department’s culture is at best ignorant and at worst hostile towards discussions about race. It is either irrelevant or it pollutes science with politics. I can’t quite say it gets better. 
 
-You will work twice as hard. You will become more knowledgeable and well-studied than your white and white-adjacent peers in your infuriating struggle to make this world make sense. You will watch them learn placidly as their worldview is confirmed and reproduced. You, instead, will reside uneasily in your education.
+You will work twice as hard. You will become more knowledgeable and well-studied than many of your peers in your infuriating struggle to make this world make sense. You will watch them learn placidly as their worldview is confirmed and reproduced. You, instead, will reside uneasily in your education.
 
 You will feel alone.
 
