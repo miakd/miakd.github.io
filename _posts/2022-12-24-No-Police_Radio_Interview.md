@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Interview with No Police Radio
-subtitle: Hosted by Cops of Campus
 ---
 
 
