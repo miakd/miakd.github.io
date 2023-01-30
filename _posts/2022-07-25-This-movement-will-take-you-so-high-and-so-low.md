@@ -26,7 +26,7 @@ You might ask why I write you this letter with so little faith that it will arri
 
 ***
 
-*Please open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity.* 
+*Open this letter on the morning of November 25, 2014, after Physics 110: Mechanics and Relativity.* 
 
 ***
 
@@ -86,7 +86,7 @@ Seek individuals with experience who aim to help you and others recognize and ha
 Ella Baker: *Strong people don't need strong leaders.* 
 
 
-**Coordinate.** You will find the most trust and resiliency in small affinity groups that organize towards common ends, and that coordinate and come together with other groups when useful. These small groups of friends and comrades will change fluidly in their focus and function. They are not meant to be permanent. They lack hierarchy and they practice care in ways that formal organizations cannot.
+You will find the most trust and resiliency in small affinity groups that organize towards common ends, and that coordinate and come together with other groups when useful. These small groups of friends and comrades will change fluidly in their focus and function. They are not meant to be permanent. They lack hierarchy and they practice care in ways that formal organizations cannot.
 
 **You are one person— and a person is a delicate thing.** People come and people go. People burn bright, people burn out. People are injured, people are traumatized, people rest, people recover. At its truest, the movement is forgiving, collective, alive, ingenious and resourceful. Take a break— it’s not that serious.
 
