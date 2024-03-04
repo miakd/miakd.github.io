@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feminist Futures Fellows: Mia Karisa Dawson
+title: Feminist Futures Fellow Profile
 subtitle: An interview with Scott Tadashi Tsuchitani
 ---
 
