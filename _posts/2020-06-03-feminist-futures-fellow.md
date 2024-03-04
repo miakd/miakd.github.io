@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feminist Futures Fellow Profile
-subtitle: An interview with Scott Tadashi Tsuchitani
+subtitle: A conversation with Scott Tadashi Tsuchitani
 ---
 
 It was a privilege to work with the Feminist Futures Fellowship program. I received such solid support and solidarity with my peers. Check out some excerpts from this profile of my project. And find the full article [***here***](https://fri.ucdavis.edu/news/feminist-futures-fellows-mia-karisa-dawson-geography#_ftn1)!
