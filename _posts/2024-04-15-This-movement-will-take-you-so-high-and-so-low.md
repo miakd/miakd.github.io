@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: This Movement Will Take You So High and So Low
 subtitle: A love letter to my past self and to the revolution
