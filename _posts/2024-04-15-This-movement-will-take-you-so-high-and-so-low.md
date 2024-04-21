@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Movement Will Take You So High and So Low
-subtitle: A love letter to my past self and to the revolution
+subtitle: A love letter to myself and to the revolution
 ---
 
 I started this in 2022 and it's finally out. It's the first creative and personal peice I've published which is both exciting and unnerving!! Check it out [***here***](https://acme-journal.org/index.php/acme/article/view/2388). It's an honor have this be a part of an incredible [***letter series***](https://acme-journal.org/index.php/acme/issue/view/141) by the Desireable Futures Geography Collective. Let me know what you think, I would love to see how it travels in the world!
