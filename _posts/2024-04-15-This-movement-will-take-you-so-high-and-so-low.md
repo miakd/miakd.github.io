@@ -126,7 +126,7 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 
 *<sup>1</sup>* Decolonial Feminist Collective. 2021. [Radicalizing + Decolonizing Feminism: Dr. Joy James, Jalessah T. Jackson, and Salome Ayuak.](https://www.youtube.com/watch?v=m5Zwr25UXJc&t=4002s). *Charis Circle.* 
 
-*<sup>2</sup>* Eve L. Ewing. 2019. Mariame Kaba: Everything Worthwhile is Done with Other People. *Adi Magazine.*
+*<sup>2</sup>* Eve L. Ewing. 2019. [Mariame Kaba: Everything Worthwhile is Done with Other People.](https://adimagazine.com/articles/mariame-kaba-everything-worthwhile-is-done-with-other-people/) *Adi Magazine.*
 
 *<sup>3</sup>* David Hilliard and Donald Weise. 2002. Speech Delivered at Boston College, 18 November 1970. [*The Huey P. Newton Reader.*](https://archive.org/details/H.P.NewtonTheHueyP.NewtonReader/page/n1/mode/2up) New York: Seven Stories Press. pp 160-175, 161.
 
