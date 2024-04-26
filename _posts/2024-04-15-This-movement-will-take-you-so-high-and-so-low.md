@@ -56,7 +56,7 @@ You will feel alone.
 Leave. Use this terrifying time to seek relationships with those who align with the person you are growing to be. These people will not only help you understand the world and what it could be, but will also open up incredible new possibilities of who you can be. And— bonus!— that person is unbelievably queer. You will begin to find chosen family and understand that the kind of love, understanding, and shared struggle that you seek will never be represented in mainstream images. 
 
 
-Joy James: *Our capacity to continuously define ourselves, to rebel, and most importantly to love . . . anchors us into the real world and changes the world simultaneously.*
+Joy James: *Our capacity to continuously define ourselves, to rebel, and most importantly to love . . . anchors us into the real world and changes the world simultaneously.<sup>1</sup>*
 
 
 Defining and anchoring yourself in love, as such, you will find it in yourself to fight.
@@ -65,7 +65,7 @@ Defining and anchoring yourself in love, as such, you will find it in yourself t
 **Fight with your people.** The movement is made of people relating to one another. It is not made of you doom-scrolling on social media. It is not made of your sense of insignificance, overwhelm, or anxiety. 
 
 
-Mariame Kaba: *Everything worthwhile is done with other people.*
+Mariame Kaba: *Everything worthwhile is done with other people.<sup>2</sup>*
 
 
 There are groups of people fighting for the things you care about in your city— find them. There are organizations doing mutual aid and direct action; organizations advocating for and with the incarcerated, the unhoused, and those impacted by environmental injustices. If there are fights that have yet to be initiated, you will find others who care to join them.
@@ -74,7 +74,7 @@ There are groups of people fighting for the things you care about in your city�
 The movement is made of people. You will learn your own power in relationship to others who know theirs. 
 
 
-Huey P. Newton: *The people and only the people make revolutions.*
+Huey P. Newton: *The people and only the people make revolutions.<sup>3</sup>*
 
 
 **People are your friends— organizations are not.** The movement is fluid, and no one organization has ever contained it. At best, an organization is a conduit. Organizations arise and become obsolete, they garner strength in numbers and they disband into smaller units. They dissolve quietly, agreeably, or they end with a corrupt bang. Often, they are infiltrated and poisoned from the inside.
@@ -87,7 +87,7 @@ You are fiercely loyal and dedicated. You have faith. Practice this in your rela
 Seek individuals with experience who aim to help you and others recognize and harness their power. Seek individuals who build collectives and invest in the difficult work of democratic decision making. Seek individuals who build  collectives  and  invest  in  the  difficult  work  of  democratic decision  making. Seek  individuals  who  can  recognize  and  challenge  hierarchies  as  they emerge.
 
 
-Ella Baker: *Strong people don't need strong leaders.* 
+Ella Baker: *Strong people don't need strong leaders.<sup>4</sup>* 
 
 
 You will find the most trust and resilience in small, horizontal affinity groups that adapt fluidly in  focus  and  function,  that  link  with  other  autonomous  groups  only  towards  clear  and intentional   actions,   and   that   embrace   impermanence   and   changes   in   circumstance. Organized  as  such,  these affinity  groups  will  remove  pressure  and  will  care  for  youin  ways that formal organizations cannot.
@@ -123,3 +123,11 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 <div align="left"> Mia </div>
 
 ***
+
+*<sup>1</sup>* Decolonial Feminist Collective. 2021. [Radicalizing + Decolonizing Feminism: Dr. Joy James, Jalessah T. Jackson, and Salome Ayuak.](https://www.youtube.com/watch?v=m5Zwr25UXJc&t=4002s). *Charis Circle.* 
+
+*<sup>2</sup>* Eve L. Ewing. 2019. Mariame Kaba: Everything Worthwhile is Done with Other People. *Adi Magazine.*
+
+*<sup>3</sup>* David Hilliard and Donald Weise. 2002. Speech Delivered at Boston College, 18 November 1970. [*The Huey P. Newton Reader.*](https://archive.org/details/H.P.NewtonTheHueyP.NewtonReader/page/n1/mode/2up) New York: Seven Stories Press. pp 160-180, 161.
+
+*<sup>4</sup>* Charles Payne. 1989. [Ella Baker and Models of Social Change.](https://www.jstor.org/stable/3174689) *Signs* 14(4): 885–899.
