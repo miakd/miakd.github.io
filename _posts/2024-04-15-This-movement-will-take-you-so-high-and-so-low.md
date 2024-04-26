@@ -1,7 +1,6 @@
 ---
 layout: post
 title: This Movement Will Take You So High and So Low
-subtitle: A love letter to myself and to the revolution
 ---
 
 I started this in 2022 and it's finally out :0 it's the first creative and personal peice I've published which is both exciting and unnerving!! Check out the published version [***here***](https://acme-journal.org/index.php/acme/article/view/2388) or find the full text below. It's an honor have this be a part of an incredible [***letter series***](https://acme-journal.org/index.php/acme/issue/view/141) by the Desireable Futures Geography Collective. Let me know what you think, I would love to see how it travels in the world!
@@ -124,7 +123,7 @@ Life begins anew. And love is abundant— you will keep finding and finding it.
 
 ***
 
-*<sup>1</sup>* Decolonial Feminist Collective. 2021. [Radicalizing + Decolonizing Feminism: Dr. Joy James, Jalessah T. Jackson, and Salome Ayuak.](https://www.youtube.com/watch?v=m5Zwr25UXJc&t=4002s). *Charis Circle.* 
+*<sup>1</sup>* Decolonial Feminist Collective. 2021. [Radicalizing + Decolonizing Feminism: Dr. Joy James, Jalessah T. Jackson, and Salome Ayuak.](https://www.youtube.com/watch?v=m5Zwr25UXJc&t=4002s) *Charis Circle.* 
 
 *<sup>2</sup>* Eve L. Ewing. 2019. [Mariame Kaba: Everything Worthwhile is Done with Other People.](https://adimagazine.com/articles/mariame-kaba-everything-worthwhile-is-done-with-other-people/) *Adi Magazine.*
 
