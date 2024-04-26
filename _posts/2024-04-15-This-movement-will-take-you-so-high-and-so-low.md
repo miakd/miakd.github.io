@@ -18,7 +18,7 @@ I started this in 2022 and it's finally out :0 it's the first creative and perso
 
 <div align="right"> From: Mia Karisa Dawson </div>
 <div align="right"> Sacramento, CA </div>
-<div align="right">July 25, 2022 </div>
+<div align="right">July 25, 2023 </div>
 
 *****
 
