@@ -7,7 +7,7 @@ subtitle: about me
 *****
 
  ![](img/collage_white___.jpeg)
-*Myself, mentor Dr. Kelly Lytle Hernández, and assorted queers of the UC President's & Chancellor's Postdoctoral Fellowship (2024)*
+*Myself, mentor Dr. Kelly Lytle Hernández, and the illustrious queers of the UC President's & Chancellor's Postdoctoral Fellowship (2024)*
 
 *****
 I'm Mia Karisa Dawson, an organizer, writer, and urban human geographer. I'm a 2023-2024 Chancellor's Postdoctoral Fellow at the University of California, Los Angeles in the Department of History. With a focus in Sacramento, I study relationships of race, property, and policing that shape U.S. cities. I further study abolitionist and anarchist organizing practices that revolutionize cities through direct action, mutual aid, and mass movement.
