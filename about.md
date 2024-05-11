@@ -6,7 +6,7 @@ subtitle: about me
 
 *****
 
- ![](img/face.jpeg)
+ ![](img/collage.jpeg)
 
 *****
 I'm Mia Karisa Dawson, an organizer, writer, and urban human geographer. I'm a 2023-2024 Chancellor's Postdoctoral Fellow at the University of California, Los Angeles. I study relationships of race, property, and policing in cities. I further explore social movements that revolutionize cities through direct action, mutual aid, and mass movement.
