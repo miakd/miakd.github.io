@@ -14,7 +14,7 @@ In 2020, Adobe, Allstate, the Anti-Defamation League, Altria, Best Buy, Fiat Chr
 
 In 2021, Joe Biden signed Juneteenth into a national holiday. He described this as as one of his proudest actions, a sign of America’s dedication to racial progress, and a reminder that freedom, justice, and equality always prevail.<sup>3</sup><sup>,</sup><sup>4</sup>
 
-In 2024, it’s time to ask ourselves, what has Juneteenth become? It appears to me as the most perverse kind of full-circle moment. Black people learned in 1865 that our bondage had supposedly ended, and now, the institutions that have undermined our freedom hide their hands by claiming to celebrate *with* us.
+In 2024, it’s time to ask ourselves, what has Juneteenth become? It appears to me as the most perverse kind of full-circle moment. Black people learned in 1865 that our bondage had ended, and now, the institutions that have undermined our freedom hide their hands by claiming to celebrate *with* us.
 
 And to the burning question of Palestine. In 2024, the same institutions that have appropriated Juneteenth and the language of Black Lives Matter are staying as far away as possible from the movement to Free Palestine, if not slandering and demonizing it. Those that are not openly supporting the genocidal, apartheid Zionist state and its U.S. backing are trying their absolute best to stay silent and go unnoticed. 
 
