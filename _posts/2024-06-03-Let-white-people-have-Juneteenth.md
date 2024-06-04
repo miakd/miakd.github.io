@@ -24,7 +24,7 @@ But a Free Palestine? That would spell the end for the very same corporate Ameri
 
 Black Lives Matter has shown that an oppressed people can be tokenized and rendered symbolic. Free Palestine has shown that an oppressed people and their land, together, can never be.
 
-I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced gibberish into perspective. So if a crew of genocaidaries and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
+I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced gibberish into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
 
 And this month, I don’t want to hear a damn thing about Black Lives Matter— or abolition for that matter— from anyone who hasn’t shouted Free Palestine with their chest for the world to hear. 
 
