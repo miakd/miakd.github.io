@@ -2,7 +2,7 @@
 layout: post
 title: Let white people have Juneteenth
 subtitle: A 2024 temperature check on Black Lives Matter and Free Palestine
-bigimg: 
+image: 
   - "/img/Juneteenth.jpeg"
 ---
 
