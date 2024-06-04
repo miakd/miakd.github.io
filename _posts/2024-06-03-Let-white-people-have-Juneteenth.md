@@ -30,7 +30,7 @@ And this month, I don’t want to hear a damn thing about Black Lives Matter— 
 
 <sup>1</sup> [CNBC 2020](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html)
 
-<sup>2</sup> [Anti-defamation League 2020](https://mountainstates.adl.org/juneteenth/)
+<sup>2</sup> [Anti-Defamation League 2020](https://mountainstates.adl.org/juneteenth/)
 
 <sup>2</sup> [whitehouse.gov 2021](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/)
 
