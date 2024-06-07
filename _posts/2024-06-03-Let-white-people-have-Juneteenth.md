@@ -6,7 +6,7 @@ subtitle: A 2024 temperature check on Black Lives Matter and Free Palestine
 
 I wonder exactly how it was that corporate America caught wind of Juneteenth. This discovery couldn’t have borne much of a resemblance to the discovery that the holiday celebrates: on June 19, 1865, when Black people in Galveston, Texas finally learned from Union soldiers that the institution of slavery had been outlawed. The Emancipation Proclamation had been signed on January 1, 1863, and so they were— and should have long been— free from bondage. In 2020, the corporations that caught wind of Juneteenth must have borne more resemblance to the wealthy slaveholding cabals of the 19th century who were hoarding the information than to the Black recipients of the good news. 
 
-Before 2020, Juneteenth had flown miraculously under the radar of white culture-vultures for most of my life. The holiday was by and for Black people. We celebrated not through capitalist gift-giving or Hallmark cards but through laid back community barbecues and educational events. For my community, mostly with roots in the Deep South rather than the Gulf, some years we just celebrated through an exchange of greetings, phone calls, of big smiles, and of warmth. Juneteenth was a beautiful and soulful mood. 
+Before 2020, Juneteenth had flown miraculously under the radar of white culture-vultures for most of my life. The holiday was by and for Black people. We celebrated not through gift-giving or Hallmark cards but through laid back community barbecues and educational events. For my community, mostly with roots in the Deep South rather than the Gulf, some years we just celebrated through an exchange of greetings, phone calls, big smiles, and warmth. Juneteenth was a beautiful and soulful mood. 
 
 I remember the moment when I knew we had lost Juneteenth. George Floyd had been executed and white, corporate America was scrambling desperately for moral credibility. The sinking feeling came when I opened Venmo in mid-June of 2020 and saw a sticker that said “Happy Juneteenth!” in shimmering bubble letters that you could attach to a payment. What, I wondered, would Venmo have been used for in 1865? I knew then that all was lost.
 
@@ -24,9 +24,9 @@ But a Free Palestine? That would spell the end for the very same corporate Ameri
 
 Black Lives Matter has shown that an oppressed people can be tokenized and rendered symbolic. Free Palestine has shown that an oppressed people and their land, together, can never be.
 
-I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced gibberish into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
+I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced word salads into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
 
-And this month, I don’t want to hear a damn thing about Black Lives Matter— or abolition for that matter— from anyone who hasn’t shouted Free Palestine with their chest for the world to hear. 
+And this year, I don’t want to hear a single, solitary thing about Juneteenth from anyone who hasn’t called publically for a Free Palestine.
 
 <sup>1</sup> [CNBC 2020](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html)
 
