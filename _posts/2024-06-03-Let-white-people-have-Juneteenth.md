@@ -30,6 +30,8 @@ I’m choosing my battles these days. Watching the genocide unfold in Palestine 
 
 So on June 19, 2024, I don’t want to hear a single, solitary thing about Juneteenth from anyone who hasn’t called publically for a free Palestine.
 
+*****
+
 <sup>1</sup> [CNBC 2020](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html)
 
 <sup>2</sup> [Anti-Defamation League 2020](https://mountainstates.adl.org/juneteenth/)
