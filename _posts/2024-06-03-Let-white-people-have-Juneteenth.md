@@ -28,7 +28,7 @@ Black Lives Matter has shown that an oppressed people can be tokenized and rende
 
 I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced word salads into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
 
-On June 19, 2024, I don’t want to hear a single, solitary thing about Juneteenth from anyone who hasn’t called publically for a free Palestine.
+So on June 19, 2024, I don’t want to hear a single, solitary thing about Juneteenth from anyone who hasn’t called publically for a free Palestine.
 
 <sup>1</sup> [CNBC 2020](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html)
 
