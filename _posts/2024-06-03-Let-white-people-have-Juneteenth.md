@@ -20,7 +20,7 @@ And this year, what better could exemplify Juneteenth's love for freedom than th
 
 Clearly, there is something profoundly different between these insitutions' relationship to the uprisings in 2020 and 2024. Black lives matter? They'll give us that, to the extent that we can be absorbed into their corporate machine that ultimately still despises us. But a free Palestine? That would spell the end for the very same corporate American war machine that pretends to love Black people. 
 
-As this horror-factory does its worst Gaza, the entire world is watching and it still cannot win. Palestinian self-determination is tearing down its mirage of infallibility and is bringing about another world. So while the representatives of these corporations and governments can say Black lives matter all day long, they’ll never in their soulless lives breathe the words Free Palestine. 
+As this horror-factory does its worst Gaza, the entire world is watching and it still cannot win. Palestinian self-determination is tearing down its mirage of infallibility and is bringing about another world. So while the representatives of these corporations and governments can say Black lives matter all day long, they’ll never in their soulless lives breathe the words *Free Palestine.* 
 
 Black Lives Matter has shown that an oppressed people can be tokenized and rendered symbolic. Free Palestine has shown that an oppressed people and their land, together, can never be.
 
