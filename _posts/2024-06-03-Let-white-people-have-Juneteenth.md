@@ -36,6 +36,6 @@ So on June 19, 2024, I don’t want to hear a single, solitary thing about Junet
 
 <sup>2</sup> [Anti-Defamation League 2020](https://mountainstates.adl.org/juneteenth/)
 
-<sup>2</sup> [whitehouse.gov 2021](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/)
+<sup>3</sup> [whitehouse.gov 2021](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/)
 
 <sup>4</sup> [whitehouse.gov 2023](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/16/a-proclamation-on-juneteenth-day-of-observance-2023/)
