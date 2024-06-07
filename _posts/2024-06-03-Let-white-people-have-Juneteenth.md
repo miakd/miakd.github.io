@@ -18,15 +18,13 @@ In 2024, what has Juneteenth become? It appears to me as the most perverse kind 
 
 And this year, what better could exemplify Juneteenth's love for freedom than the Palestinian resistence? And yet, in 2024, the same institutions that have appropriated Juneteenth and the language of Black Lives Matter are staying as far away as possible from the movement to Free Palestine, if not slandering and demonizing it. Those that are not openly supporting the genocidal, apartheid Zionist state and its U.S. backing are trying their absolute best to stay silent and go unnoticed. 
 
-Clearly there is something fundamentally different between their relationship to the movement in the streets in 2020 and 2024. Because sure, Black lives matter, to the extent that we can be absorbed into their corporate machine that ultimately still despises us. What else were we freed for, anyway, but to participate in wage labor and for the upward mobility of the very few? 
-
-But a Free Palestine? That would spell the end for the very same corporate American war machine that pretends to love Black people. As this horror-factory does its worst Gaza, the entire world is watching and it still cannot win. Palestinian self-determination is tearing down its mirage of infallibility and is bringing about another world. So while the representatives of these corporations and governments can say Black Lives Matter all day long, they’ll never in their soulless lives breathe the words Free Palestine. 
+There is something profoundly different between these insitutions' relationship to the uprisings in 2020 and 2024. Do Black lives matter? Sure, to the extent that we can be absorbed into their corporate machine that ultimately still despises us. But a free Palestine? That would spell the end for the very same corporate American war machine that pretends to love Black people. As this horror-factory does its worst Gaza, the entire world is watching and it still cannot win. Palestinian self-determination is tearing down its mirage of infallibility and is bringing about another world. So while the representatives of these corporations and governments can say Black Lives Matter all day long, they’ll never in their soulless lives breathe the words Free Palestine. 
 
 Black Lives Matter has shown that an oppressed people can be tokenized and rendered symbolic. Free Palestine has shown that an oppressed people and their land, together, can never be.
 
 I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the trash takes, performativity, hand-wringing, both sides-ism, empty gestures and two-faced word salads into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want to ruin Juneteenth this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, we will be in the streets doing our ancestors proud.
 
-And this year, I don’t want to hear a single, solitary thing about Juneteenth from anyone who hasn’t called publically for a Free Palestine.
+And this year, I don’t want to hear a single, solitary thing about Juneteenth or Black Lives Matter from anyone who hasn’t called publically for a Free Palestine.
 
 <sup>1</sup> [CNBC 2020](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html)
 
