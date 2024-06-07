@@ -16,7 +16,7 @@ In 2021, Joe Biden signed Juneteenth into a national holiday. He described this 
 
 In 2024, what has Juneteenth become? It appears to me as the most perverse kind of full-circle moment. Black people learned in 1865 that our bondage had ended, and now, the institutions that have undermined our freedom hide their hands by claiming to celebrate *with* us.
 
-And this year, what better could exemplify Juneteenth's yearning for freedom than the Palestinian resistence? And yet, in 2024, the same institutions that have appropriated Juneteenth and the language of Black Lives Matter are staying as far away as possible from the movement to Free Palestine, if not slandering and demonizing it. Those that are not openly supporting the genocidal, apartheid Zionist state and its U.S. backing are trying their absolute best to stay silent and go unnoticed. 
+And this year, what better could exemplify Juneteenth's love for freedom than the Palestinian resistence? And yet, in 2024, the same institutions that have appropriated Juneteenth and the language of Black Lives Matter are staying as far away as possible from the movement to Free Palestine, if not slandering and demonizing it. Those that are not openly supporting the genocidal, apartheid Zionist state and its U.S. backing are trying their absolute best to stay silent and go unnoticed. 
 
 Clearly there is something fundamentally different between their relationship to the movement in the streets in 2020 and 2024. Because sure, Black lives matter, to the extent that we can be absorbed into their corporate machine that ultimately still despises us. What else were we freed for, anyway, but to participate in wage labor and for the upward mobility of the very few? 
 
