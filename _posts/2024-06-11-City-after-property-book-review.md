@@ -6,9 +6,9 @@ subtitle: A book review in Urban Geography
 
 What an honor to be included in this book review forum! [*The City after Property*](https://www.dukeupress.edu/the-city-after-property) is a gift and an inspiration. Please find my review [*The legacy of Black Power, the future of abolition, and the urban land question in* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2328399)! 
 
-***
+Find a couple excerpts from my review below!
 
-Here are a couple excerpts from my review!
+***
 
 *From the intro:*
 
