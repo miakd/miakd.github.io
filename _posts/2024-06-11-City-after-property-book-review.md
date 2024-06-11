@@ -28,6 +28,6 @@ Consistent with the imperatives of contemporary movements for abolition and deco
 
 ***
 
-For more about this book and larger convo, you can also find the Julie Ren's editor's introduction of the book forum [The City after Property: *a conversation on critical geographies of race and property*](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2343542), and you can find Sara Safransky's response [*On writing* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2334572). And, check out the [full issue of *Urban Geography*](https://www.tandfonline.com/toc/rurb20/45/5) for all of the other contributions to the forum. 
+For more about this book and the larger conversation, you can find the Julie Ren's editor's introduction of the book forum [The City after Property: *a conversation on critical geographies of race and property*](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2343542), and you can find Sara Safransky's response [*On writing* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2334572). And, check out the [full issue of *Urban Geography*](https://www.tandfonline.com/toc/rurb20/45/5) for all of the other contributions to the forum. 
 
 Also, check out Julie Ren's article [*Book review forums: reviving a platform*](https://www.tandfonline.com/doi/full/10.1080/02723638.2023.2183616).
