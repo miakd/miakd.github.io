@@ -16,6 +16,7 @@ An ethos of Black Power inspires the community organizers active in the 2010s wh
 
 In this review, I highlight threads in *The City after Property* that contextualize the history and legacy of the Black Power movement through community organizing in the 2010s in Detroit. I bring these threads in conversation with the political analyses of early Black Power theorists including James and Grace Lee Boggs, C.L.R. James, Eldridge Cleaver, and Kwame Ture, who were informed by the racial geography of Detroit in the late 1960s and early 1970s. I conclude by considering Safransky’s contributions in The City after Property in dialogue with these earlier theorists to discuss the place of property and land in the future of a transnational movement for abolition.
 
+***
 
 *And from the conclusion:*
 
