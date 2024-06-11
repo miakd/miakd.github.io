@@ -6,13 +6,9 @@ subtitle: A book review in Urban Geography
 
 What an honor to be included in this book review forum! [*The City after Property*](https://www.dukeupress.edu/the-city-after-property) is a gift and an inspiration. Please find my review [*The legacy of Black Power, the future of abolition, and the urban land question in* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2328399)! 
 
-You can also find the Julie Ren's editor's introduction [The City after Property: *a conversation on critical geographies of race and property*](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2343542), and the Sara Safransky's response [*On writing* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2334572). And, check out the [full issue of *Urban Geography*](https://www.tandfonline.com/toc/rurb20/45/5) for all of the other contributions to the forum. 
-
-Also, check out Julie Ren's article [*Book review forums: reviving a platform*](https://www.tandfonline.com/doi/full/10.1080/02723638.2023.2183616) about the reasoning behind this form of engagement.
-
 ***
 
-Here are a couple excerpts.
+Here are a couple excerpts from my review!
 
 *From the intro:*
 
@@ -28,3 +24,9 @@ Despite this turn, the radical, decolonial torch of Black Power has never been l
 In this contemporary organizing, cities as geographically distant as Detroit and Al-Khalil converge as a shared terrain of struggle. Both the drawn-out bureaucratic evictions in Detroit and the direct seizures of Palestinian homes by Israeli settlers in Al-Khalil can only occur when backed by the threat of militarized violence. This militarized violence ensures that access to the benefits of property rights is racialized, selective, and exclusive. As such, just as the resistance from the U.S. to Palestine faces the same weapons and techniques of militarized policing, it also shares an aspiration for self-determination on a land freed from occupation and exclusionary property regimes.
 
 Consistent with the imperatives of contemporary movements for abolition and decolonization, the practices of direct action portrayed in *The City after Property* undermine property regimes by claiming autonomy and collectivity in contested and fugitive places in Detroit. Such claims to the city are not based on the legal property rights that Black people have perpetually been denied, but in unsanctioned assertions of stewardship, collectivity, survival, and defense. Through these insurgent relationships to land, the city after property is made material.
+
+***
+
+For more about this book and larger convo, you can also find the Julie Ren's editor's introduction of the book forum [The City after Property: *a conversation on critical geographies of race and property*](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2343542), and you can find Sara Safransky's response [*On writing* The City after Property](https://www.tandfonline.com/doi/full/10.1080/02723638.2024.2334572). And, check out the [full issue of *Urban Geography*](https://www.tandfonline.com/toc/rurb20/45/5) for all of the other contributions to the forum. 
+
+Also, check out Julie Ren's article [*Book review forums: reviving a platform*](https://www.tandfonline.com/doi/full/10.1080/02723638.2023.2183616).
