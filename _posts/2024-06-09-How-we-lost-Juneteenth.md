@@ -4,7 +4,9 @@ title: How we lost Juneteenth
 subtitle: Reflecting on the fate of Black Lives Matter amidst the uprising for Palestine
 ---
 
-I wonder exactly how it was that corporate America caught wind of Juneteenth. This discovery couldn’t have borne much of a resemblance to the discovery that the holiday celebrates: on June 19, 1865, when Black people in Galveston, Texas finally learned from Union soldiers that the institution of slavery had been outlawed. The Emancipation Proclamation had been signed on January 1, 1863, and so they were— and should have long been— free from bondage. In 2020, the corporations that caught wind of Juneteenth must have borne more resemblance to the wealthy slaveholding cabals who were hoarding the information than to the Black recipients of the good news. 
+I wonder exactly how it was that corporate America caught wind of Juneteenth. This discovery couldn’t have borne much of a resemblance to the discovery that the holiday celebrates: on June 19, 1865, when Black people in Galveston, Texas finally learned from Union soldiers that the institution of slavery had been outlawed. The Emancipation Proclamation had been signed on January 1, 1863, and so they were— and should have long been— free from bondage. 
+
+In 2020, the corporations that caught wind of Juneteenth must have borne more resemblance to the wealthy slaveholding cabals who were hoarding the information than to the Black recipients of the good news. 
 
 Before 2020, Juneteenth had flown miraculously under the radar of white culture-vultures for most of my life. The holiday was by and for Black people. We celebrated not through gift-giving or Hallmark cards but through laid back community barbecues and educational events. For my community, mostly with roots in the Deep South rather than the Gulf, some years we just celebrated through an exchange of greetings, phone calls, big smiles, and warmth. Juneteenth was a beautiful and soulful mood. 
 
@@ -14,7 +16,7 @@ In 2020, Adobe, Allstate, the Anti-Defamation League, Altria, Best Buy, Fiat Chr
 
 In 2021, Joe Biden signed Juneteenth into a national holiday. He described this as as one of his proudest actions, a sign of America’s dedication to racial progress, and a reminder that freedom, justice, and equality always prevail.<sup>3</sup><sup>,</sup><sup>4</sup>
 
-What has Juneteenth become? It appears to me as the most perverse kind of full-circle moment. Black people learned in 1865 that our bondage had ended, and now, the institutions that have undermined our freedom hide their hands by claiming to celebrate *with* us.
+What has Juneteenth become? It feels like the most perverse kind of full-circle moment- we're now supposed to celebrate our freedom alongside the very institutions that have ruthlessly undermined it.
 
 And this year, what better could exemplify Juneteenth's love for freedom than the Palestinian resistance? Yet the same institutions that have appropriated the holiday since 2020 are staying as far away as possible from the movement to free Palestine, if not slandering and demonizing it. Those that are not openly supporting the genocidal, apartheid Zionist state and its U.S. backing are trying their absolute best to stay silent and go unnoticed. 
 
