@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How we lost Juneteenth
+title: Let white people have Juneteenth
 subtitle: Reflecting on the fate of Black Lives Matter amidst the uprising for Palestine
 ---
 
@@ -30,7 +30,7 @@ Black Lives Matter has shown that an oppressed people can be tokenized and rende
 
 I no longer enjoy Juneteenth. I wish I could say I was reclaiming it, finding moments of joy or glimmers of hope, maybe even bringing people together to celebrate its original cause. But, since the corporations and the feds have started to celebrate, it just brings me back to the most depressing parts of summer 2020. When America was gaslighting us by telling us it loved us.
 
-But I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the performativity, hand-wringing, both sides-ism, empty gestures and two-faced word salads into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want Juneteenth for themselves this year, this one isn’t my battle to fight. While they are making their empty and soulless gestures, I will be taking the lead from Palestinian youth to continue organizing, revolting, and honoring our joint, ancestral love for freedom.
+But I’m choosing my battles these days. Watching the genocide unfold in Palestine puts all of the performativity, hand-wringing, both sides-ism, empty gestures and two-faced word salads into perspective. So if a crew of genocidaires and enablers like the Biden administration, the Anti-Defamation League, the New York Times and Google want Juneteenth for themselves this year, this one isn’t my battle to fight. Let them have it. While they are making their empty and soulless gestures, I will be taking the lead from Palestinian youth to continue organizing, revolting, and honoring our joint, ancestral love for freedom.
 
 *****
 
