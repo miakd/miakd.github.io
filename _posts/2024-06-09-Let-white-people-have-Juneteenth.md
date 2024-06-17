@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Let white people have Juneteenth
-subtitle: Reflecting on the fate of Black Lives Matter amidst the uprising for Palestine
 ---
 
 I wonder exactly how it was that corporate America caught wind of Juneteenth. This discovery couldn’t have borne much of a resemblance to the discovery that the holiday celebrates: on June 19, 1865, when Black people in Galveston, Texas finally learned from Union soldiers that the institution of slavery had been outlawed. The Emancipation Proclamation had been signed on January 1, 1863, and so they were— and should have long been— free from bondage. 
