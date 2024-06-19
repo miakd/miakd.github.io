@@ -23,7 +23,7 @@ Clearly, there is something profoundly different between these institutions' rel
 
 But a free Palestine? That would spell the end for the very same corporate American war machine that pretends to love Black people. As this horror-factory does its worst Gaza, the entire world is watching and it still cannot win. Palestinian self-determination is tearing down its mirage of infallibility and is bringing about another world. So while the representatives of these corporations and governments can say Black Lives Matter all day long, they’ll never in their soulless lives breathe the words Free Palestine. 
 
-The fate of the Black Lives Matter movement has shown that an identity, alone, can be tokenized, neutralized, and rendered symbolic. The movement for a free Palestine has shown that a material struggle for land– as connected to, but not synonymous with identity– can never be.
+The fate of the Black Lives Matter movement has shown that an identity, alone, can be tokenized, neutralized, and rendered symbolic. The movement for a free Palestine has shown that a material struggle for land– as connected to, but not synonymous with an identity– can never be.
 
 *****
 
