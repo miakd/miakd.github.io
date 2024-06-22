@@ -7,7 +7,7 @@ I wonder exactly how it was that corporate America caught wind of Juneteenth. Th
 
 In 2020, the corporations that caught wind of Juneteenth must have borne more resemblance to the wealthy slaveholding cabals who were hoarding the information than to the Black recipients of the good news. 
 
-Before 2020, Juneteenth had flown miraculously under the radar of white culture-vultures for most of my life. The holiday was by and for Black people. We celebrated not through gift-giving or Hallmark cards but through laid back community barbecues and educational events. For my community, mostly with roots in the Deep South rather than the Gulf, some years we just celebrated through an exchange of greetings, phone calls, big smiles, and warmth. Juneteenth was a beautiful and soulful mood. 
+Before 2020, Juneteenth had flown miraculously under the radar of white culture-vultures for most of my life. The holiday was by and for Black people. We celebrated not through gift-giving or Hallmark cards but through laid back community barbecues and educational events. For my family, with roots in the Deep South rather than the Gulf, some years we just celebrated through an exchange of greetings, phone calls, big smiles, and warmth. Juneteenth was a beautiful and soulful mood. 
 
 I remember the moment when I knew we had lost Juneteenth. George Floyd had been executed and white, corporate America was scrambling desperately for moral credibility. The sinking feeling came when I opened Venmo in mid-June of 2020 and saw a sticker that said “Happy Juneteenth!” in shimmering bubble letters that you could attach to a payment. What, I wondered, would Venmo have been used for in 1865? I knew then that all was lost.
 
