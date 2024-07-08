@@ -6,7 +6,7 @@ subtitle: about me
 
 *****
 
- ![](img/collage_white___.jpeg)
+ ![](img/collage.jpeg)
 *Myself, mentor Dr. Kelly Lytle Hernández, and the illustrious queers of the UC President's & Chancellor's Postdoctoral Fellowship (2024)*
 
 *****
