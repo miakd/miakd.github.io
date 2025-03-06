@@ -27,7 +27,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   #blog: ""
-  about me: #"about"
+  #about me: #"about"
     #- me: "about"
     #- the site: "project"
   #resources: "reading"
