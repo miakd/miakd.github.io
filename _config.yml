@@ -27,7 +27,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   #blog: ""
-  about me: "about"
+  about me: #"about"
     #- me: "about"
     #- the site: "project"
   #resources: "reading"
@@ -50,8 +50,8 @@ title-img:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mia Karisa Dawson
-  email: "mkdawson@ucla.edu"
+  name: Mia KD
+  email: #"mkdawson@ucla.edu"
   facebook: yourname  # eg. daattali
   github: yourname
   twitter: miakarisa
