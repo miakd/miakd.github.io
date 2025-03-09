@@ -70,8 +70,8 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
-  twitter: true
+  email: false
+  twitter: false
   google-plus: false
   github: false
   reddit: false
