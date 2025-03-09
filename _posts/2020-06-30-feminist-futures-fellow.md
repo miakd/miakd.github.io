@@ -4,7 +4,7 @@ title: Feminist Futures Fellow Profile
 subtitle: A conversation with Scott Tadashi Tsuchitani
 ---
 
-It was a privilege to work with the Feminist Futures Fellowship program. I received such solid support and solidarity with my peers. Check out some excerpts from this profile of my project.
+It was a privilege to work with the Feminist Futures Fellowship program. I received such solid support and solidarity with my peers. Check out some excerpts from a profile of my project facilitated by Scott Tadashi Tsuchitani.
 
 ***Tell us about your project.***
 
