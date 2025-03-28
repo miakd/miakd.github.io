@@ -51,7 +51,7 @@ title-img:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mia KD
-  email: #"mkdawson@ucla.edu"
+  email: "mkdawson@ucla.edu"
   facebook: yourname  # eg. daattali
   github: yourname
   twitter: yourname
@@ -70,7 +70,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: false
+  email: true
   twitter: false
   google-plus: false
   github: false
