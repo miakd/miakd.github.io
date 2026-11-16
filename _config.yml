@@ -30,6 +30,7 @@ navbar-links:
   about me: "about"
     #- me: "about"
     #- the site: "project"
+  CV: "cv"
   #resources: "reading"
   #support: "support"
   #inspiration:
