@@ -6,4 +6,4 @@ subtitle: CV
 
 *****
 
-Find my CV[**here**](https://miakd.github.io/img/DAWSON-cv.pdf).
+Please find my CV linked [**here**](https://miakd.github.io/img/Dawson-CV.pdf).
