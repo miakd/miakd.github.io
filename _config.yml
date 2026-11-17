@@ -53,7 +53,7 @@ title-img:
 author:
   name: Mia KD
   email: "mkdawson@umbc.edu"
-  #ORCID: 0009 0001 5702 4367
+  ORCID: 0009000157024367
   #google-scholar: Mia Karisa Dawson
   #facebook: yourname  # eg. daattali
   #github: yourname
@@ -88,14 +88,9 @@ footer-links-active:
   #youtube: false
   #spotify: false
   #telephone: false
-  #ORCID: true
-  #google-scholar: true
-  #bluesky: true
-
-social-network-links:
-  bluesky: miakarisaa.bsky.social
-  ORCID: 0009-0001-5702-4367
-  google-scholar: Mia Karisa Dawson
+  ORCID: true
+  google-scholar: true
+  bluesky: true
 
 # Select which share links to show in posts
 share-links-active:
