@@ -80,7 +80,7 @@ footer-links-active:
   google-plus: false
   github: false
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -88,6 +88,9 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
+  ORCID: true
+  google-scholar: true
+  bluesky: true
 
 # Select which share links to show in posts
 share-links-active:
