@@ -52,45 +52,59 @@ title-img:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mia KD
-  email: "mkdawson@umbc.edu"
-  ORCID: 0009 0001 5702 4367
-  google-scholar: Mia Karisa Dawson
-  facebook: yourname  # eg. daattali
-  github: yourname
-  twitter: yourname
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: mia-karisa-dawson-951b31204
+  #email: "mkdawson@umbc.edu"
+  #ORCID: 0009 0001 5702 4367
+  #google-scholar: Mia Karisa Dawson
+  #facebook: yourname  # eg. daattali
+  #github: yourname
+  #twitter: yourname
+  #reddit: yourname    # eg. daattali
+  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  #linkedin: mia-karisa-dawson-951b31204
   # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  bluesky: miakarisaa.bsky.social
+  #xing: yourname      # eg. daattali
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  #snapchat: yourname  # eg. daattali
+  #instagram: yourname # eg. daattali
+  #youtube: yourlink   # eg. user/daattali or channel/daattali
+  #spotify: yourname   # eg. daattali
+  #telephone: yourphone   # eg. +14159998888
+  #bluesky: miakarisaa.bsky.social
 
 # Select which links to show in the footer
-footer-links-active:
-  rss: false
-  facebook: false
-  email: true
-  twitter: false
-  google-plus: false
-  github: false
-  reddit: false
-  linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  ORCID: true
-  google-scholar: true
-  bluesky: true
+#footer-links-active:
+  #rss: false
+  #facebook: false
+  #email: true
+  #twitter: false
+  #google-plus: false
+  #github: false
+  #reddit: false
+  #linkedin: true
+  #xing: false
+  #stackoverflow: false
+  #snapchat: false
+  #instagram: false
+  #youtube: false
+  #spotify: false
+  #telephone: false
+  #ORCID: true
+  #google-scholar: true
+  #bluesky: true
+
+social-network-links:
+  email: "mkdawson@umbc.edu"
+  bluesky: miakarisaa.bsky.social
+  linkedin: mia-karisa-dawson-951b31204
+  ORCID: 0009-0001-5702-4367
+  google-scholar: Mia Karisa Dawson
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 
 # Select which share links to show in posts
 share-links-active:
