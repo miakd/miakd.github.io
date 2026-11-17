@@ -92,6 +92,11 @@ footer-links-active:
   #google-scholar: true
   #bluesky: true
 
+social-network-links:
+  bluesky: miakarisaa.bsky.social
+  ORCID: 0009-0001-5702-4367
+  google-scholar: Mia Karisa Dawson
+
 # Select which share links to show in posts
 share-links-active:
   twitter: true
